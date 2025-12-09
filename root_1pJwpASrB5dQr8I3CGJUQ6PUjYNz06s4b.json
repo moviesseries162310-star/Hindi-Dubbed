@@ -538,5 +538,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cKZcDKawR79igCgDMSXlpkn8hLR.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive:1MzPP2n4IkUHhUttkTDUDlxx1jNGhstxA",
+    "type": "movie",
+    "name": "BlackBerry",
+    "poster": "https://image.tmdb.org/t/p/w500/ePWKQzOnwabMcJsWYWIiy5p1Ofr.jpg",
+    "description": "Two mismatched entrepreneurs – egghead innovator Mike Lazaridis and cut-throat businessman Jim Balsillie – joined forces in an endeavour that was to become a worldwide hit in little more than a decade. The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+    "background": "https://image.tmdb.org/t/p/w1280/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.1"
   }
 ]
