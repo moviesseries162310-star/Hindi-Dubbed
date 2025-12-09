@@ -628,5 +628,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1CI7oNAOSQhwmxB7XUCyYphm15lZ2YkGz",
+    "type": "movie",
+    "name": "Eden",
+    "poster": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",
+    "description": "A group of disillusioned outsiders abandon modern society in search of a new beginning. Settling on a remote, uninhabited island, their utopian dream quickly unravels as they discover that the greatest threat isn’t the brutal climate or deadly wildlife, but each other.",
+    "background": "https://image.tmdb.org/t/p/w1280/rz8NcfTRczvn94vpnmMx42zt6EC.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.7"
   }
 ]
