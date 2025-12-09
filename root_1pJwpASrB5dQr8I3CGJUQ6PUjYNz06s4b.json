@@ -978,5 +978,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3zKU2EznBtOPtheyCTQwdZL4b93.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1TTeIjyr9Xa_bdwtEhGLXEDamvxVmhSET",
+    "type": "movie",
+    "name": "French Lover",
+    "poster": "https://image.tmdb.org/t/p/w500/bLqPpqNoKbNbXysIeft1tLIl6KB.jpg",
+    "description": "When a jaded actor meets a down-on-her-luck waitress in Paris, their unexpected love story begins — but will it survive the glare of the spotlight?",
+    "background": "https://image.tmdb.org/t/p/w1280/p4OIGFfVo3vbROMD1evVF0u14Rf.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
