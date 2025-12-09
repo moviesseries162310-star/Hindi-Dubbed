@@ -688,5 +688,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
     "released": "1995-01-01",
     "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive:1OTlX98g5iTzxMS9KcDlSGzJbVasTN1HL",
+    "type": "movie",
+    "name": "Clear and Present Danger",
+    "poster": "https://image.tmdb.org/t/p/w500/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+    "description": "Agent Jack Ryan becomes acting Deputy Director of Intelligence for the CIA when Admiral Greer is diagnosed with cancer. When an American businessman, and friend of the president, is murdered on his yacht, Ryan starts discovering links between the man and drug dealers. As former CIA agent John Clark is sent to Colombia to kill drug cartel kingpins in retaliation, Ryan must fight through multiple cover-ups to figure out what happened and who's responsible.",
+    "background": "https://image.tmdb.org/t/p/w1280/njPBXJqugKR5qwUJIHOWSCYscnz.jpg",
+    "released": "1994-01-01",
+    "imdbRating": "6.6"
   }
 ]
