@@ -1038,5 +1038,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8GlKBQJTFZp9mpLXJrmNCtdTyxx.jpg",
     "released": "1992-01-01",
     "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive-folder:11xspo3_WF_v3HWY5N92xZ0yOeaogo8tu",
+    "type": "movie",
+    "name": "Lake Placid",
+    "poster": "https://image.tmdb.org/t/p/w500/pEszakCP8j9E9S0UPLfEa3Cad3O.jpg",
+    "description": "When a man is eaten alive by an unknown creature, the local Game Warden teams up with a paleontologist from New York to find the beast. Add to the mix an eccentric philanthropist with a penchant for \"Crocs\", and here we go! This quiet, remote lake is suddenly the focus of an intense search for a crocodile with a taste for live animals...and people!",
+    "background": "https://image.tmdb.org/t/p/w1280/yGhhPnwTxtPGGDuUn4JbWXGdYvA.jpg",
+    "released": "1999-01-01",
+    "imdbRating": "5.9"
   }
 ]
