@@ -298,5 +298,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rlF1oWTeOGA6RB2g7VsE8PkV7te.jpg",
     "released": "2008-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:1LVhV3qNEfg-_aNjtpPWYALwBIVnxKLPU",
+    "type": "movie",
+    "name": "Solomon Kane",
+    "poster": "https://image.tmdb.org/t/p/w500/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg",
+    "description": "A nomadic 16th century warrior, condemned to hell for his brutal past, seeks redemption by renouncing violence, but finds some things are worth burning for as he fights to free a young Puritan woman from the grip of evil.",
+    "background": "https://image.tmdb.org/t/p/w1280/5BqdQshlGWtn43YIFHIlYJzhFsR.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "6.0"
   }
 ]
