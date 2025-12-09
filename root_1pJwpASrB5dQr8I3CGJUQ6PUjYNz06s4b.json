@@ -818,5 +818,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/oVph5mMhp0UxVYeSpIfUfll0kcF.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive:155HLRuySSfupNTga0dsrpweHPRIP7IA0",
+    "type": "movie",
+    "name": "Squad 36",
+    "poster": "https://image.tmdb.org/t/p/w500/rfQi2JzENT5MNJhN1nkIZMNWm4M.jpg",
+    "description": "Forced out of his elite unit, a troubled cop launches his own rogue investigation when mysterious killings claim the lives of his former colleagues.",
+    "background": "https://image.tmdb.org/t/p/w1280/8qXc6OLHoLHBxOFIjsfbZwWDFYH.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.2"
   }
 ]
