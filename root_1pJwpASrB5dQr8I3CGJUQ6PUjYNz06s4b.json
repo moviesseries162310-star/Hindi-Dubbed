@@ -758,5 +758,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/1Xxr8zwRZDNeUD65O9m663P6A5K.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1OmRuSDTyYoHuH3nacKGZFxrS_Zh-HAf5",
+    "type": "movie",
+    "name": "The Jester 2",
+    "poster": "https://image.tmdb.org/t/p/w500/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg",
+    "description": "When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.",
+    "background": "https://image.tmdb.org/t/p/w1280/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.4"
   }
 ]
