@@ -588,5 +588,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sJL9R7V1VZcB7i6so6zrQSfYrWa.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1pPN9Q10dvs-RFphxgKHBrK4_9_qmUDHE",
+    "type": "movie",
+    "name": "Midnight Sun",
+    "poster": "https://image.tmdb.org/t/p/w500/vPG2zEKPXhovPW9S91SRnwr5JM1.jpg",
+    "description": "Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.",
+    "background": "https://image.tmdb.org/t/p/w1280/9T8sj5io4SGCBTHsk5H8LGcfKVe.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.8"
   }
 ]
