@@ -838,5 +838,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
     "released": "1995-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:1Rcg8ADw1reUrnw4EGD3x-KKbVn-y0mf9",
+    "type": "movie",
+    "name": "The First Wives Club",
+    "poster": "https://image.tmdb.org/t/p/w500/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg",
+    "description": "After years of helping their hubbies climb the ladder of success, three mid-life Manhattanites have been dumped for a newer, curvier model. But the trio is determined to turn their pain into gain. They come up with a cleverly devious plan to hit their exes where it really hurts - in the wallet!",
+    "background": "https://image.tmdb.org/t/p/w1280/gtLbJuGgAEvxG4DaPHRARURlD2H.jpg",
+    "released": "1996-01-01",
+    "imdbRating": "6.7"
   }
 ]
