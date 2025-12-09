@@ -138,5 +138,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8veOfB9RbSzFki0Rq3IQIGsFfhC.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1zaxB7gUfY1Z9SLnVlWu_0w23PMF887PT",
+    "type": "movie",
+    "name": "Jingle Bell Heist",
+    "poster": "https://image.tmdb.org/t/p/w500/rVOQF2Ucekug1B80A9crVx7Jn90.jpg",
+    "description": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
+    "background": "https://image.tmdb.org/t/p/w1280/y6PLMIoHOP365rNDflD9VgnoALU.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
