@@ -1518,5 +1518,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cpd1CcHwgjQMkACDC9R5LtQcGXK.jpg",
     "released": "2006-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1ify2caC4N9Sv7ICslpU57oUeqZDTtTlz",
+    "type": "movie",
+    "name": "Battlefield Earth",
+    "poster": "https://image.tmdb.org/t/p/w500/wXCRuBHdJ5aTFQdsuGJFXNdo79T.jpg",
+    "description": "In the year 3000, man is no match for the Psychlos, a greedy, manipulative race of aliens on a quest for ultimate profit. Led by the powerful Terl, the Psychlos are stripping Earth clean of its natural resources, using the broken remnants of humanity as slaves. What is left of the human race has descended into a near primitive state. After being captured, it is up to Tyler to save mankind.",
+    "background": "https://image.tmdb.org/t/p/w1280/hqJfW8G8FL28rckFHuCoKPecpG9.jpg",
+    "released": "2000-01-01",
+    "imdbRating": "3.3"
   }
 ]
