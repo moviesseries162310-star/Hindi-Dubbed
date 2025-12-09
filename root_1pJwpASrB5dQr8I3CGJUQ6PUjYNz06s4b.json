@@ -1318,5 +1318,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lUPz9zW0uf0bHfYsRRID8RtBHEU.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1_qovFDXPoFwXRZpvNt2fso_oqym6RVyU",
+    "type": "movie",
+    "name": "News of the World",
+    "poster": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+    "description": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+    "background": "https://image.tmdb.org/t/p/w1280/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.0"
   }
 ]
