@@ -1088,5 +1088,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1GJ24P3o_3J-lgdKCVEeOmxntsCaQ3JUs",
+    "type": "movie",
+    "name": "Love Untangled",
+    "poster": "https://image.tmdb.org/t/p/w500/e7jStO2xfBUAUK37LbINHd1qtgy.jpg",
+    "description": "A lovestruck teen plans to win the school heartthrob by going from curly to straight hair — until a new transfer student changes everything.",
+    "background": "https://image.tmdb.org/t/p/w1280/oBcvmHD7lbaX8RZ7NXvO05fIJef.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "8.4"
   }
 ]
