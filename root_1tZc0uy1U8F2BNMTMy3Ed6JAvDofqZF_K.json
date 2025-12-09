@@ -568,5 +568,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
     "released": "1997-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:1kdYyWgQWMGNeZCZmsbzaleOM3EYHevnT",
+    "type": "movie",
+    "name": "Cape Fear",
+    "poster": "https://image.tmdb.org/t/p/w500/xDqaHjMbnebtB05QWgAR8wW86sb.jpg",
+    "description": "Sam Bowden witnesses a rape committed by Max Cady and testifies against him. When released after 8 years in prison, Cady begins stalking Bowden and his family but is always clever enough not to violate the law.",
+    "background": "https://image.tmdb.org/t/p/w1280/gPqtCp55HWsJ2f3fEPsoXD77KQx.jpg",
+    "released": "1962-01-01",
+    "imdbRating": "7.4"
   }
 ]
