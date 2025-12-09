@@ -1558,5 +1558,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gXahs8xwiF2VMZJK7JgtSZSgTDt.jpg",
     "released": "2000-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1s71hqJHIwdbsDOpLSqKxPrz3LzzwxBfd",
+    "type": "movie",
+    "name": "Case 39",
+    "poster": "https://image.tmdb.org/t/p/w500/b16EjFeHd2AwoYXWUne7DA346pU.jpg",
+    "description": "In her many years as a social worker, Emily Jenkins believes she has seen it all, until she meets 10-year-old Lilith and the girl's cruel parents. Emily's worst fears are confirmed when the parents try to harm the child, and so Emily assumes custody of Lilith while she looks for a foster family. However, Emily soon finds that dark forces surround the seemingly innocent girl, and the more she tries to protect Lilith, the more horrors she encounters.",
+    "background": "https://image.tmdb.org/t/p/w1280/qPNoCO4aEpKiXopvJ0qH2HHjvLz.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "6.3"
   }
 ]
