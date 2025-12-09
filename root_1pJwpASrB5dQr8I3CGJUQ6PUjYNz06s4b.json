@@ -1198,5 +1198,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/y7tjLYcq2ZGy2DNG0ODhGX9Tm60.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1E8n9poaTwzF69kLWkwLeq9UngFQEaTr-",
+    "type": "movie",
+    "name": "The Legend of Ochi",
+    "poster": "https://image.tmdb.org/t/p/w500/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
+    "description": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+    "background": "https://image.tmdb.org/t/p/w1280/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.2"
   }
 ]
