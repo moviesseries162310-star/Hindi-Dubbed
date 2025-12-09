@@ -288,5 +288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zDlHoyE9UGaHJLAk4rvu4v36nfk.jpg",
     "released": "1999-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1aR71nhozg1Ff_z2h1lgYVL3aKZt9e8Wk",
+    "type": "movie",
+    "name": "Seven Pounds",
+    "poster": "https://image.tmdb.org/t/p/w500/85zUipgVy2QbvAJ6djZXYaGckMv.jpg",
+    "description": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+    "background": "https://image.tmdb.org/t/p/w1280/rlF1oWTeOGA6RB2g7VsE8PkV7te.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "7.6"
   }
 ]
