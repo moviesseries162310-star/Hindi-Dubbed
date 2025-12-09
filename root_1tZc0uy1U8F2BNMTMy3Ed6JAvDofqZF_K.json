@@ -488,5 +488,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg",
     "released": "1997-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:11WhNxQG9tsFf7h-A_dQ8nvlEoL2ODd1m",
+    "type": "movie",
+    "name": "The Mangler",
+    "poster": "https://image.tmdb.org/t/p/w500/vwRZOUzIX17luLM69sCC9meM9od.jpg",
+    "description": "A laundry-folding machine has been possessed by a demon, causing it to develop homicidal tendencies.",
+    "background": "https://image.tmdb.org/t/p/w1280/fg62HvBsidzoZLzhjEyfXITwKdQ.jpg",
+    "released": "1995-01-01",
+    "imdbRating": "4.9"
   }
 ]
