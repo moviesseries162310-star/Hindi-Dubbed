@@ -788,5 +788,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xyfjxB68aORMLQDcXFUlXCouYt2.jpg",
     "released": "2010-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1vlzRUXG2fYMvpkqnJiOfJ-H2xT11KuJL",
+    "type": "movie",
+    "name": "Faust: Love of the Damned",
+    "poster": "https://image.tmdb.org/t/p/w500/qewddAmFcD2XoGc4w1YwNdw8YXy.jpg",
+    "description": "An artist sells his soul to the mysterious M in order to get revenge on the people who killed his girlfriend. Soon, he realises everything has a price, and he is transformed into a horned demon with a passion for killing.",
+    "background": "https://image.tmdb.org/t/p/w1280/plp70Zqq1HQMJiN743F8IKmFdXU.jpg",
+    "released": "2000-01-01",
+    "imdbRating": "4.8"
   }
 ]
