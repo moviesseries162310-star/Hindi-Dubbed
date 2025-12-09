@@ -888,5 +888,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1dhMgIz0_zLqoH1zj66yDv-3hqkTG7613",
+    "type": "movie",
+    "name": "Welcome to Smelliville",
+    "poster": "https://image.tmdb.org/t/p/w500/w7PJ7fBEYOuaAMKfYa4zmw45v3N.jpg",
+    "description": "The Oggly family arrive at the municipal rubbish dump of Smelliville and must look for a new home, but they never feel really welcome anywhere. They stink and are for most humans just a tad too oggly. When Firebottom, the family dragon, crash-lands on the run-down rubbish tip of the small town of Smelliville, the Ogglies at once feel at home. And it's here they want to stay.",
+    "background": "https://image.tmdb.org/t/p/w1280/2nU5H8XIgtMkJrxsryP6nJuAHQ.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.8"
   }
 ]
