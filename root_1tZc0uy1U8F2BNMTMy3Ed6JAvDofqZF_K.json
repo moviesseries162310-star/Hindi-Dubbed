@@ -578,5 +578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gPqtCp55HWsJ2f3fEPsoXD77KQx.jpg",
     "released": "1962-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1x19-sqrqvEVNescAi0qQ1MI0EvCaiDcT",
+    "type": "movie",
+    "name": "The Net",
+    "poster": "https://image.tmdb.org/t/p/w500/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+    "description": "Angela Bennett is a freelance computer systems analyst who tracks down software viruses. At night she hooks up to the internet and chats to others 'surfing the net'. While de-bugging a new high-tech game for a cyber friend, she comes across a top secret program and becomes the target of a mysterious organization who will stop at nothing to erase her identity and her existence, in order to protect the project.",
+    "background": "https://image.tmdb.org/t/p/w1280/lmjReP9aoEZFFyqDP1JP4F0Ohsf.jpg",
+    "released": "1995-01-01",
+    "imdbRating": "6.0"
   }
 ]
