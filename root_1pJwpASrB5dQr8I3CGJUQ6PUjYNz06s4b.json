@@ -918,5 +918,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uSNyVHYDr7WyPozVJ9mYYoMyymm.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive:1_VXBRGz6k4qWXWnH0OUMsQ5lttb7Apm8",
+    "type": "movie",
+    "name": "All the Devils Are Here",
+    "poster": "https://image.tmdb.org/t/p/w500/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
+    "description": "After a heist, four criminals lay low in a remote safehouse, waiting for orders. As paranoia builds, one thing becomes clear — the real threat may not be outside, but among them.",
+    "background": "https://image.tmdb.org/t/p/w1280/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.9"
   }
 ]
