@@ -1268,5 +1268,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/A5V1RIXR277KuLFEa5fdu5wbiEp.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1tUeVFTlVgp6JEWPWmQXgkAzV4M4LJT8K",
+    "type": "movie",
+    "name": "The Midnight Sky",
+    "poster": "https://image.tmdb.org/t/p/w500/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+    "description": "A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.",
+    "background": "https://image.tmdb.org/t/p/w1280/dueiWzWc81UAgnbDAyH4Gjqnh4n.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "5.7"
   }
 ]
