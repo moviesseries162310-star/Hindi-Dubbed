@@ -48,5 +48,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xTWHFJgP5anqRipDig4LSa4DLqj.jpg",
     "released": "2019-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:1v4ZhZ-AUQj_Mod3HZSiZJ9Uir7xAc5F0",
+    "type": "movie",
+    "name": "Sword Art Online -FULLDIVE-",
+    "poster": "https://image.tmdb.org/t/p/w500/g062ytH03f9yoBo0iOAC9CJHUXh.jpg",
+    "description": "A completely new story written by the original creator and author, Reki Kawahara, spun through songs and live cast readings. Celebrate the 10th-anniversary commemorative event for the anime Sword Art Online (SAO).",
+    "background": null,
+    "released": "2022-01-01",
+    "imdbRating": null
   }
 ]
