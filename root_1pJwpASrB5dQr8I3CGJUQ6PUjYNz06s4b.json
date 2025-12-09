@@ -828,5 +828,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8qXc6OLHoLHBxOFIjsfbZwWDFYH.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1esZr5r40OBfEDfvTMsaZBQJCiesoTwvQ",
+    "type": "movie",
+    "name": "Everybody Loves Me When I'm Dead",
+    "poster": "https://image.tmdb.org/t/p/w500/p43EHgFFik8csqNlRDI9uVU1onx.jpg",
+    "description": "Two bank employees steal from a dead woman's account and unwittingly entangle themselves in Pattaya's criminal underworld.",
+    "background": "https://image.tmdb.org/t/p/w1280/uBSAkQNDh9INECJlVEkUc2Q5uZ2.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.2"
   }
 ]
