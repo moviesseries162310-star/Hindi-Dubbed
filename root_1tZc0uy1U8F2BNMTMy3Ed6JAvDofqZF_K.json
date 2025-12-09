@@ -58,5 +58,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8g8WtAAEGRramjw9G4ivYQV8OaR.jpg",
     "released": "1993-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1Me5vojz4S8ZWg4hydTZ_KG1LwzR7ZKB5",
+    "type": "movie",
+    "name": "The Mask",
+    "poster": "https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+    "description": "Stanley, a meek bank employee, turns into an eccentric and maniacal green-skinned superhero who can bend reality, after wearing a wooden mask that was created by Loki, the Norse god of mischief.",
+    "background": "https://image.tmdb.org/t/p/w1280/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+    "released": "1994-01-01",
+    "imdbRating": "7.0"
   }
 ]
