@@ -1308,5 +1308,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/t0qAnq1iOno3Z926Fc1OeKk43Qu.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:180i6JdTHyP8uxA0kd6FidxC5PJbEtBw7",
+    "type": "movie",
+    "name": "A Mighty Heart",
+    "poster": "https://image.tmdb.org/t/p/w500/z5f7KPg8vqqYXtaF0wUkSWryDIg.jpg",
+    "description": "Based on Mariane Pearl's account of the terrifying and unforgettable story of her husband, Wall Street Journal reporter Danny Pearl's life and death.",
+    "background": "https://image.tmdb.org/t/p/w1280/zjVE6yJE3UvQbBTB6QbiN3fK52m.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "6.4"
   }
 ]
