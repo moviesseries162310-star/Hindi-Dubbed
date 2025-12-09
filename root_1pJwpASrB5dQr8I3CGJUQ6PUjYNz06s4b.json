@@ -1058,5 +1058,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hPU12uDcsVyaz368yjxa4BjDHXB.jpg",
     "released": "2024-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1IbGh-EU2Kwnsk3-DMSKNxdbgp52hHecp",
+    "type": "movie",
+    "name": "Lilo & Stitch",
+    "poster": "https://image.tmdb.org/t/p/w500/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+    "description": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+    "background": "https://image.tmdb.org/t/p/w1280/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.2"
   }
 ]
