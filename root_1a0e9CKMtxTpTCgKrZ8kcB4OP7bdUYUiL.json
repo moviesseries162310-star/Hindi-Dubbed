@@ -158,5 +158,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/p0uaaqE5XQ9TpICMir5axMfTYkg.jpg",
     "released": "2006-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1GY_ET2aV2MNpagHodgDoJAQJBGcMQlm6",
+    "type": "movie",
+    "name": "Bruce Almighty",
+    "poster": "https://image.tmdb.org/t/p/w500/f0QqG14SZYYZcV4VWykVc5w13dz.jpg",
+    "description": "Bruce Nolan toils as a \"human interest\" television reporter in Buffalo, NY, but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God — and the Almighty responds, endowing Bruce with all of His divine powers.",
+    "background": "https://image.tmdb.org/t/p/w1280/cgjLr9VVQzp0mYQ6IUc3JlZ8Frp.jpg",
+    "released": "2003-01-01",
+    "imdbRating": "6.7"
   }
 ]
