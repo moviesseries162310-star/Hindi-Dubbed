@@ -1628,5 +1628,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
     "released": "2006-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1lYOX69YyyQW-HqL5SqGvPSG7z7RV0Lxp",
+    "type": "movie",
+    "name": "Yes Man",
+    "poster": "https://image.tmdb.org/t/p/w500/16zVbgFLTUaUTG1wQHuGjfWNuDM.jpg",
+    "description": "Carl Allen, a guy whose life is going nowhere, signs up for a self-help program based on one simple covenant: say yes to everything…and anything.",
+    "background": "https://image.tmdb.org/t/p/w1280/sNb17zdxApUSJ5cZNgvq2rlAseA.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "6.7"
   }
 ]
