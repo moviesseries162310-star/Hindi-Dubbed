@@ -998,5 +998,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4b6qkETAmQiOcUtCSppe6kREXA3.jpg",
     "released": "2009-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1naY-70ldVRnnYczHnwF0VRlRsCwCKNKB",
+    "type": "movie",
+    "name": "The Quiet",
+    "poster": "https://image.tmdb.org/t/p/w500/lXIuHcRGCRk0YBOi41MCHMvGst5.jpg",
+    "description": "After her widowed father dies, deaf teenager Dot moves in with her godparents, Olivia and Paul Deer. The Deers' daughter, Nina, is openly hostile to Dot, but that does not prevent her from telling her secrets to her silent stepsister, including the fact that she wants to kill her lecherous father.",
+    "background": "https://image.tmdb.org/t/p/w1280/zjbSLTro4NWg4CLHblmzsc0Rya4.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "6.2"
   }
 ]
