@@ -1528,5 +1528,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hqJfW8G8FL28rckFHuCoKPecpG9.jpg",
     "released": "2000-01-01",
     "imdbRating": "3.3"
+  },
+  {
+    "id": "gdrive:1iwMQM1ipB4FFADsaysbNu2_YDkyilwRQ",
+    "type": "movie",
+    "name": "Charlie and the Chocolate Factory",
+    "poster": "https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+    "description": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+    "background": "https://image.tmdb.org/t/p/w1280/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "7.0"
   }
 ]
