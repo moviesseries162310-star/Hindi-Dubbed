@@ -1228,5 +1228,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:11Z4kmdrALUMstq3UJUp94XPVA39LmroR",
+    "type": "movie",
+    "name": "Happy Gilmore 2",
+    "poster": "https://image.tmdb.org/t/p/w500/nRwDPfYUzzzUQarfMxvPlasxzpL.jpg",
+    "description": "Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
+    "background": "https://image.tmdb.org/t/p/w1280/stCEYCxA3SknIIne1H4LmaIJ8ii.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.6"
   }
 ]
