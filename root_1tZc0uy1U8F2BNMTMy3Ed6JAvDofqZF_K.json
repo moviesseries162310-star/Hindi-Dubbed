@@ -438,5 +438,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/1bLZdOPOctwFF2IBONf6KczIppS.jpg",
     "released": "1999-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1uBCF-OUXzKgGvL7DXVj3E1sGG1DMD3M-",
+    "type": "movie",
+    "name": "The Stepfather",
+    "poster": "https://image.tmdb.org/t/p/w500/bTolBUgHeU4Tcq8HjBxL92f9wLm.jpg",
+    "description": "Michael Harding returns home from military school to find his mother happily in love and living with her new boyfriend, David. As the two men get to know each other, Michael becomes more and more suspicious of the man who is always there with a helpful hand. Is he really the man of her dreams or could David be hiding a dark side?",
+    "background": "https://image.tmdb.org/t/p/w1280/dcusiv7CYDmAXEYVeBUhvC4YMMU.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "5.8"
   }
 ]
