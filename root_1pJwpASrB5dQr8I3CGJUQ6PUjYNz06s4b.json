@@ -1588,5 +1588,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1S5TwLAZ8mncSR9pkhGxBci3OKhfMzKi1",
+    "type": "movie",
+    "name": "Daniela Forever",
+    "poster": "https://image.tmdb.org/t/p/w500/sPTAz3frxpVxOnSyEwy3jmEtEHE.jpg",
+    "description": "A man struggling to come to terms with the sudden death of his girlfriend in an accident six months prior signs up for a sleep trial that allows him to reconstruct his life with her through the use of lucid dreams.",
+    "background": "https://image.tmdb.org/t/p/w1280/xm1FGWFXaDXdQuk3gyLt6DHDQJQ.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.2"
   }
 ]
