@@ -318,5 +318,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tEtkqU4k7i3axhWRTn48q1pEo5o.jpg",
     "released": "2009-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1Rm8mrOH_AhOhomLF2l2aBAmCLZVad4lK",
+    "type": "movie",
+    "name": "Closer",
+    "poster": "https://image.tmdb.org/t/p/w500/fGGaokx4k00S0J603VG53Qlr9jz.jpg",
+    "description": "The relationships of two couples become complicated and deceitful when the man from one couple meets the woman of the other.",
+    "background": "https://image.tmdb.org/t/p/w1280/bA7Afj1w6eVciWQfianTLeLmYV5.jpg",
+    "released": "2004-01-01",
+    "imdbRating": "6.8"
   }
 ]
