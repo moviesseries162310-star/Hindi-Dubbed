@@ -848,5 +848,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ogBcoLNyfwvgfWtEmNhjL8kBZN2.jpg",
     "released": "2004-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1jgv5GA1OWfWQEtECcgmkw-km6NPS7vEL",
+    "type": "movie",
+    "name": "Midnight Sun",
+    "poster": "https://image.tmdb.org/t/p/w500/vPG2zEKPXhovPW9S91SRnwr5JM1.jpg",
+    "description": "Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.",
+    "background": "https://image.tmdb.org/t/p/w1280/9T8sj5io4SGCBTHsk5H8LGcfKVe.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.8"
   }
 ]
