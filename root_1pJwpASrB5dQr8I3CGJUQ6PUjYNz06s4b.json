@@ -578,5 +578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive:1Vi2eRSXX98IVBEPXUL95DVdNTy0sSURD",
+    "type": "movie",
+    "name": "Monster Summer",
+    "poster": "https://image.tmdb.org/t/p/w500/zD2UZkh0DwbDEMuOKIR7jgwgulZ.jpg",
+    "description": "When a mysterious force begins to disrupt their big summer fun, Noah and his friends team up with a retired police detective to embark on a monstrous adventure to save their island.",
+    "background": "https://image.tmdb.org/t/p/w1280/sJL9R7V1VZcB7i6so6zrQSfYrWa.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.3"
   }
 ]
