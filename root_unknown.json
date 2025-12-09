@@ -18,5 +18,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1c9SmclXjZZwt7DDNdkxAK-NPrgd9AJuW",
+    "type": "movie",
+    "name": "The Crimson Rivers",
+    "poster": "https://image.tmdb.org/t/p/w500/ahVy85IlUQagmFkQrJxiJE8ZMC4.jpg",
+    "description": "Old-school police detective Pierre Niemans and his former student Camille Delaunay tackle complex, brutal murder cases.",
+    "background": "https://image.tmdb.org/t/p/w1280/iB8dmeDPGsIesd9tbDJmnlAiJBJ.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.6"
   }
 ]
