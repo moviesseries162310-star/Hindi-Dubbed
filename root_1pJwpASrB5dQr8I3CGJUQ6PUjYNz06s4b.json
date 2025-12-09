@@ -1608,5 +1608,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2EYZgQCo9MNty5Nc6swTgzFYJUs.jpg",
     "released": "2022-01-01",
     "imdbRating": "4.3"
+  },
+  {
+    "id": "gdrive:1HSR5J3HLfr1FQmnrd_vIvFTp9KaupeVD",
+    "type": "movie",
+    "name": "Trainwreck: The Cult of American Apparel",
+    "poster": "https://image.tmdb.org/t/p/w500/jqDRiwqDsopRZe7xZRYz7KiTkjc.jpg",
+    "description": "Featuring tell-all interviews with insiders and former staff, this exposé traces American Apparel's journey from fashion phenomenon to financial flop.",
+    "background": "https://image.tmdb.org/t/p/w1280/2vvXkChwXyNyK3s8KRhMoensEwO.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.2"
   }
 ]
