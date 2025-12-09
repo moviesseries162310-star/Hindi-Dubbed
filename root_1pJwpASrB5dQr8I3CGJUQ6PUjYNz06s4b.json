@@ -1658,5 +1658,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2TtpJq1PbeQ36E5FnHVX4O6hVvu.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:13XiIza9_utmhQHTK57LAdKdeIXJbRlsA",
+    "type": "movie",
+    "name": "Love Kills",
+    "poster": "https://image.tmdb.org/t/p/w500/ghXOynot6Se9h240urgZx0OGvWR.jpg",
+    "description": "Glamorous fashion photographer Rebecca is getting even. Angered by her husband's infidelity, she takes a lover - a mysterious hunk she fist met during a photo shoot. He's exciting. He's handsome. And, after a night of lovemaking, he confesses he's a hit man hired by her husband to kill her. The stranger also says he's had a change of heart and wants to be Rebecca's protector. But Rebecca's husband, a renowned psychologist, insists the man is a former patient with a hidden, twisted agenda. Both men can't be right. Both could be lying. As the circle of suspense closes in on her, one thing is clear to Rebecca. Any choice she makes could be more than wrong...it could be fatal.",
+    "background": "https://image.tmdb.org/t/p/w1280/rIaN1PH8D7XZdvdwnLprT95LfPU.jpg",
+    "released": "1991-01-01",
+    "imdbRating": "2.6"
   }
 ]
