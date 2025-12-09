@@ -398,5 +398,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3aruHgUG4tiLfHqjjGkJeE74z2n.jpg",
     "released": "1995-01-01",
     "imdbRating": "4.8"
+  },
+  {
+    "id": "gdrive:1kAFkD2aDqFQUKAtZZ9dFfemnSzJ6Zax_",
+    "type": "movie",
+    "name": "The Hand",
+    "poster": "https://image.tmdb.org/t/p/w500/zUSAV9rObBlJfYIK9y4o88hmmdd.jpg",
+    "description": "Jon Lansdale is a comic book artist who loses his right hand in a car accident. The hand was not found at the scene of the accident, but it soon returns by itself to follow Jon around, and murder those who anger him.",
+    "background": "https://image.tmdb.org/t/p/w1280/25ambHMixc35CVBZlibnfbMABsF.jpg",
+    "released": "1981-01-01",
+    "imdbRating": "5.9"
   }
 ]
