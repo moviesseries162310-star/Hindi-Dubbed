@@ -398,5 +398,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ss8aaeGyPRmOs9l9o9lL7FvcmbQ.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:14JeNr8y6aNuFtF9JcfOw4ulHobMJV9FG",
+    "type": "movie",
+    "name": "Mango",
+    "poster": "https://image.tmdb.org/t/p/w500/8aTla8ofmtJdfhInKyLTyZifA3k.jpg",
+    "description": "An ambitious hotelier and her reluctant daughter take a trip to Málaga, where they find what they've been craving in a farmer's idyllic mango orchard.",
+    "background": "https://image.tmdb.org/t/p/w1280/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.7"
   }
 ]
