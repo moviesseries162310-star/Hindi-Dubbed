@@ -118,5 +118,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wJ7ORrqQEYyh9AQc0Wa20TCDSVW.jpg",
     "released": "2024-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:18uANPu_iwOK_-ssBD7Vcem_PaZ-dlwXP",
+    "type": "movie",
+    "name": "Dracula",
+    "poster": "https://image.tmdb.org/t/p/w500/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+    "description": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death itself, guided by a single hope — to be reunited with his lost love.",
+    "background": "https://image.tmdb.org/t/p/w1280/otSXrUWOTX7tTigLBMFKOV8n47r.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.1"
   }
 ]
