@@ -568,5 +568,15 @@
     "background": null,
     "released": "2021-01-01",
     "imdbRating": "2.0"
+  },
+  {
+    "id": "gdrive:1oUpmhZVpTYWIrO4tha-z5KbNdzMY3vKI",
+    "type": "movie",
+    "name": "Violent Night",
+    "poster": "https://image.tmdb.org/t/p/w500/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
+    "description": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
+    "background": "https://image.tmdb.org/t/p/w1280/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.2"
   }
 ]
