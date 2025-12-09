@@ -838,5 +838,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uBSAkQNDh9INECJlVEkUc2Q5uZ2.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1rLCgq_SQqDq_tB6JtIuTORbPR7Nv_42h",
+    "type": "movie",
+    "name": "Latte and the Magic Waterstone",
+    "poster": "https://image.tmdb.org/t/p/w500/saxPKOrN6rNScTicLpBDZw58Cw.jpg",
+    "description": "When a greedy bear steals a magic stone to keep the forest’s water for himself, a brave hedgehog and a timid squirrel must work together to retrieve it.",
+    "background": "https://image.tmdb.org/t/p/w1280/poKtpiQ0akacXzXohWmtb0Z7nFD.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.6"
   }
 ]
