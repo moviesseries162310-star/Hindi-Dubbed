@@ -768,5 +768,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xDKuTzBVpJPqFc39H4hctrle87T.jpg",
     "released": "1999-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1EV0SgcqyZY-lHUxVS6LfcDKzCHzeR-F7",
+    "type": "movie",
+    "name": "The Blue Lagoon",
+    "poster": "https://image.tmdb.org/t/p/w500/k6KsThCeoxxHDbVnlHLdTlf5wsy.jpg",
+    "description": "Two small children and a ship's cook survive a shipwreck and find safety on an idyllic tropical island. Soon, however, the cook dies and the young boy and girl are left on their own. Days become years and Emmeline and Richard make a home for themselves surrounded by exotic creatures and nature's beauty. But will they ever see civilization again?",
+    "background": "https://image.tmdb.org/t/p/w1280/4HYBkZPz2Gb7LWXludvvOfATzGS.jpg",
+    "released": "1980-01-01",
+    "imdbRating": "6.2"
   }
 ]
