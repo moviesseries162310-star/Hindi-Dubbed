@@ -1158,5 +1158,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aw1ulHlnuOdfHhK1wvfI4gBs0Gl.jpg",
     "released": "2006-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:18gLPSGKOjCE6kPGb5q4USqime9SNJXGa",
+    "type": "movie",
+    "name": "State of Play",
+    "poster": "https://image.tmdb.org/t/p/w500/mWsfeSFUM3NxWa62UrA9IIn240B.jpg",
+    "description": "When a congressional aide is killed, a Washington, D.C. journalist starts investigating the case involving the Representative, his old college friend.",
+    "background": "https://image.tmdb.org/t/p/w1280/n6ggvrNiiDBGcymaomQPeVsIfUg.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "6.8"
   }
 ]
