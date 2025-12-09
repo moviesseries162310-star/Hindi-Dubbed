@@ -38,5 +38,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/41e5IyqaeACWnRP85bCkfZM3Skk.jpg",
     "released": "2023-01-01",
     "imdbRating": "4.3"
+  },
+  {
+    "id": "gdrive:1lZqkBcH8a4G0_opKrlgPKSr6eT-UvSmn",
+    "type": "movie",
+    "name": "Lost in Translation",
+    "poster": "https://image.tmdb.org/t/p/w500/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+    "description": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+    "background": "https://image.tmdb.org/t/p/w1280/3ZY8iEsv5XKiMU19T1MIvHET5Ih.jpg",
+    "released": "2003-01-01",
+    "imdbRating": "7.4"
   }
 ]
