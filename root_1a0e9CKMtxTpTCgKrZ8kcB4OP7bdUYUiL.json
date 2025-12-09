@@ -538,5 +538,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tNf1h0dJ6grkW0Pt50xPJhTZM5l.jpg",
     "released": "2009-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1Ac7Nq1TF_HASp9NcAgTzhjw7SY_Jfbk7",
+    "type": "movie",
+    "name": "Erin Brockovich",
+    "poster": "https://image.tmdb.org/t/p/w500/jEMvWBWVjndZT0vJnLrRWi9ajea.jpg",
+    "description": "A twice-divorced mother of three who sees an injustice, takes on the bad guy and wins -- with a little help from her push-up bra. Erin goes to work for an attorney and comes across medical records describing illnesses clustered in one nearby town. She starts investigating and soon exposes a monumental cover-up.",
+    "background": "https://image.tmdb.org/t/p/w1280/3HmLKhahTxX2ALTWlagr92pZrU7.jpg",
+    "released": "2000-01-01",
+    "imdbRating": "7.4"
   }
 ]
