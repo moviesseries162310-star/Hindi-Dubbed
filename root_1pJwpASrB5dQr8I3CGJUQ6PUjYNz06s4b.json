@@ -1218,5 +1218,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wxxSyWPPgssnkO6FbCAVyntLLSr.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1Eg10hJS9wOT1Kx7nfZjR9czCL0sMDhZv",
+    "type": "movie",
+    "name": "Materialists",
+    "poster": "https://image.tmdb.org/t/p/w500/zh4kaa2dGhVjojHulCWt3AR4b2l.jpg",
+    "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+    "background": "https://image.tmdb.org/t/p/w1280/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.5"
   }
 ]
