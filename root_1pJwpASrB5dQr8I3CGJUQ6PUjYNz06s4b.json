@@ -1078,5 +1078,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/r4X2xRrWleVgx0kahP27xRmm3ia.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1S2mU4C0UsD6DR0_b18oRwNnMiDyfgBbr",
+    "type": "movie",
+    "name": "The Naked Gun",
+    "poster": "https://image.tmdb.org/t/p/w500/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg",
+    "description": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure.",
+    "background": "https://image.tmdb.org/t/p/w1280/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.5"
   }
 ]
