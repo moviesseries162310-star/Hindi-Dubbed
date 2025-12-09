@@ -498,5 +498,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lKGUaVHu6QX4vnfjxXIWcogeUR1.jpg",
     "released": "2025-01-01",
     "imdbRating": "4.5"
+  },
+  {
+    "id": "gdrive:1nDJEIP9caN1bPkQ17Qht5skuAzLm-ToD",
+    "type": "movie",
+    "name": "The Rats: A Witcher Tale",
+    "poster": "https://image.tmdb.org/t/p/w500/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
+    "description": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
+    "background": "https://image.tmdb.org/t/p/w1280/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.2"
   }
 ]
