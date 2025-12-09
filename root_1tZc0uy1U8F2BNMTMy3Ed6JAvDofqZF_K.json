@@ -658,5 +658,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
     "released": "1994-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive:1kbdi2ERE9UDrjo4N85-QZG2-1SoRsbCv",
+    "type": "movie",
+    "name": "Red Sonja",
+    "poster": "https://image.tmdb.org/t/p/w500/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg",
+    "description": "A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.",
+    "background": "https://image.tmdb.org/t/p/w1280/xSD0q1FiuZkvHuy7uscOLbmd1hR.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.8"
   }
 ]
