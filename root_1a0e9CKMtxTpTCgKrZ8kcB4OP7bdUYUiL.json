@@ -1018,5 +1018,15 @@
     "background": null,
     "released": "1969-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1n92BbnUOgU3VqNDIPGEOmmMWkxLxW_On",
+    "type": "movie",
+    "name": "Confidence",
+    "poster": "https://image.tmdb.org/t/p/w500/yJzmAtY9DmhhjJwFnW0Zjlvz6yg.jpg",
+    "description": "What Jake Vig doesn't know just might get him killed. A sharp and polished grifter, Jake has just swindled thousands of dollars from the unsuspecting Lionel Dolby with the help of his crew. It becomes clear that Lionel wasn't just any mark, he was an accountant for eccentric crime boss Winston King. Jake and his crew will have to stay one step ahead of both the criminals and the cops to finally settle their debt.",
+    "background": "https://image.tmdb.org/t/p/w1280/g5woRbuOrwynegzoMKOg8GmMf0j.jpg",
+    "released": "2003-01-01",
+    "imdbRating": "6.3"
   }
 ]
