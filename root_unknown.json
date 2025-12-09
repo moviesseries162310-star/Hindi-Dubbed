@@ -28,5 +28,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/iB8dmeDPGsIesd9tbDJmnlAiJBJ.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive:1mB-TBvyDAYl8JoTJpz0MKJyweeltfHMa",
+    "type": "movie",
+    "name": "Case Closed: The Crimson Love Letter",
+    "poster": "https://image.tmdb.org/t/p/w500/jj2bDnXgwL9BlmZSdhd6N73HqNM.jpg",
+    "description": "Bombing case at Nichiuri TV in autumn. The Satsuki Cup, which crowns the winner of Japan's Hyakunin Isshu, is currently being filmed inside the facility. The incident results in a big commotion and, while the building is burning to ashes, the only people left inside are Hattori and Toyama Kazuha. They get rescued just in time by Conan , who rushes to the scene. Both the identity and purposes of the bomber are unknown.",
+    "background": "https://image.tmdb.org/t/p/w1280/60h5gBY9YLUBIRRBmXgnVt5Ywkt.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.5"
   }
 ]
