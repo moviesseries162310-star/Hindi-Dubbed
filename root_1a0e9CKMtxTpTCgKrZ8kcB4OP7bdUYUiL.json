@@ -748,5 +748,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jIsooxM6JIMyBvog3hF6i2WNUW5.jpg",
     "released": "2006-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:1V2a31fipMfj12us8PkTRT0uRJUP3gd7p",
+    "type": "movie",
+    "name": "Blitz",
+    "poster": "https://image.tmdb.org/t/p/w500/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+    "description": "In World War II London, nine-year-old George is evacuated to the countryside by his mother, Rita, to escape the bombings. Defiant and determined to return to his family, George embarks on an epic, perilous journey back home as Rita searches for him.",
+    "background": "https://image.tmdb.org/t/p/w1280/qRSMoh9EMlQ9uywMpLulWBkIma9.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.0"
   }
 ]
