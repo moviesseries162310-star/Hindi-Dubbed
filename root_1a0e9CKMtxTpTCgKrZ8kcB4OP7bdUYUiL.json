@@ -1618,5 +1618,15 @@
     "background": null,
     "released": "2018-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:195U5M7EP9PRAxsp-0QyEagI_HGqRlblH",
+    "type": "movie",
+    "name": "The Hills Have Eyes",
+    "poster": "https://image.tmdb.org/t/p/w500/2eJL1Ccr1FN3dm9OSDwyd8uaX1b.jpg",
+    "description": "Based on Wes Craven's 1977 suspenseful cult classic, The Hills Have Eyes is the story of a family road trip that goes terrifyingly awry when the travelers become stranded in a government atomic zone. Miles from nowhere, the Carter family soon realizes the seemingly uninhabited wasteland is actually the breeding ground of a blood-thirsty mutant family...and they are the prey.",
+    "background": "https://image.tmdb.org/t/p/w1280/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "6.5"
   }
 ]
