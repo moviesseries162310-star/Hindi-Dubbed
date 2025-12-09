@@ -498,5 +498,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ldPtMaobGaG7sSrKM1c9Vnd6UGq.jpg",
     "released": "2005-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1eXRZNIRjITPCP0hADR69yWu_J24jwHLe",
+    "type": "movie",
+    "name": "The Little Vampire",
+    "poster": "https://image.tmdb.org/t/p/w500/zBGfZGKX3KJnljxsX6r24lzRe0i.jpg",
+    "description": "Based on the popular books, the story tells of Tony who wants a friend to add some adventure to his life. What he gets is Rudolph, a vampire kid with a good appetite. The two end up inseparable, but their fun is cut short when all the hopes of the vampire race could be gone forever in single night. With Tony's access to the daytime world, he helps them to find what they've always wanted.",
+    "background": "https://image.tmdb.org/t/p/w1280/xiVZGT0kKT5wCy7VaYuf5rr6Fnu.jpg",
+    "released": "2000-01-01",
+    "imdbRating": "6.9"
   }
 ]
