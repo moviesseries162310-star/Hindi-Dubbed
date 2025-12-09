@@ -8,5 +8,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ltIxMsVJD9iiD5V4SBp4kv3KhVb.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1dB63q_zvHXBiBxXqNRVoVTbxX6ougRWc",
+    "type": "movie",
+    "name": "Summer of 69",
+    "poster": "https://image.tmdb.org/t/p/w500/xBmsHHLwvwI29oyFE48fKAnSQyk.jpg",
+    "description": "In an effort to land the guy she's been pining after since grade school, Abby hires a local stripper named Santa Monica to teach her everything she needs to know about confidence and sex.",
+    "background": "https://image.tmdb.org/t/p/w1280/jaPnd7NG0LqZ8H0Qox4gYhjRCrS.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.5"
   }
 ]
