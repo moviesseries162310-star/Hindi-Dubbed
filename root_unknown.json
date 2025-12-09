@@ -38,5 +38,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/60h5gBY9YLUBIRRBmXgnVt5Ywkt.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:151EV3qHpe9eElHmDppSxxiGG6PikHWI6",
+    "type": "movie",
+    "name": "KONOSUBA – God's blessing on this wonderful world! Legend of Crimson",
+    "poster": "https://image.tmdb.org/t/p/w500/fv5BgcfkpWh3V6Pb1qVlXESBOdl.jpg",
+    "description": "It is not strange that the Demon Lord's forces fear the Crimson Demons, the clan from which Megumin and Yunyun originate. Even if the Demon Lord's generals attack their village, the Crimson Demons can just easily brush them off with their supreme mastery of advanced and overpowered magic.  When Yunyun receives a seemingly serious letter regarding a potential disaster coming to her hometown, she immediately informs Kazuma Satou and the rest of his party. After a series of wacky misunderstandings, it turns out to be a mere prank by her fellow demon who wants to be an author. Even so, Megumin becomes worried about her family and sets out toward the Crimson Demons' village with the gang.  There, Kazuma and the others decide to sightsee the wonders of Megumin's birthplace. However, they soon come to realize that the nonsense threat they received might have been more than just a joke.",
+    "background": "https://image.tmdb.org/t/p/w1280/xTWHFJgP5anqRipDig4LSa4DLqj.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "8.0"
   }
 ]
