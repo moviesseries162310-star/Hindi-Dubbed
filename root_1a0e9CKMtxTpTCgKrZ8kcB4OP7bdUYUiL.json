@@ -718,5 +718,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vIEuJiIZN9EclAJDmD49F2zUzuX.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1-FtGYdhtxkTh_f41L5HNWN6WgTdThZM3",
+    "type": "movie",
+    "name": "Student A",
+    "poster": "https://image.tmdb.org/t/p/w500/t0kF3RBn01XMTHh3pNVSDHBQQfH.jpg",
+    "description": "Jang Mi-rae is a teenage girl who struggles to coexist with her classmates and her alcoholic father. She then interacts with a fellow gamer she meets online, which helps her grow as a person.",
+    "background": "https://image.tmdb.org/t/p/w1280/4JUC0FnQA3ujopE8wRSkI9pZIng.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.5"
   }
 ]
