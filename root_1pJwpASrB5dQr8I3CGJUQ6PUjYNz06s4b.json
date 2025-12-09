@@ -1448,5 +1448,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:1Tp6RKU2eQD4aPmAWrkcLQBzTGPj47a7E",
+    "type": "movie",
+    "name": "Get Fast",
+    "poster": "https://image.tmdb.org/t/p/w500/tDpTR7xhHu9cz1X4JAIRFwXyf6U.jpg",
+    "description": "When The Thief’s partner is kidnapped after stealing millions in cash from a merciless drug lord named Nushi, he reluctantly teams up with an angst-ridden orphan to rescue him. Nushi enlists her most trusted hitman, The Cowboy, a lovable charmer who’s quick with his guns, to track down the Thief. Guns, cars, and explosions will give the newfound partners a head start, but how long will they be able to keep it up?",
+    "background": "https://image.tmdb.org/t/p/w1280/JMlVj6X2F1PuDz9OyHShThzpa2.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "5.7"
   }
 ]
