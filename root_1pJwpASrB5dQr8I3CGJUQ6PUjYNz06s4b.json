@@ -1468,5 +1468,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rEX85lgoawCWv9l8bgEPRqWtdPp.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1FcA49EYxk5gyd4f-2_I-zUoQhAAPKkeU",
+    "type": "movie",
+    "name": "Ace",
+    "poster": "https://image.tmdb.org/t/p/w500/jruZ1ouBTqnkNk8FYWL0NVAAcDL.jpg",
+    "description": "Set within the embrace of an intimate group of friends in college, Ace follows the emotional journey of a shy newcomer who discovers an attraction to longstanding group-member Z that he can neither ignore nor fully embrace. As the connection between Ace and Z intensifies, so to does the silence that both illuminates their fears and fuels their insecurities. Though the attraction between them appears unmistakable, their inability to acknowledge and express their feelings for each other openly threatens to sever the powerful bond that draws them instinctively to each other.",
+    "background": "https://image.tmdb.org/t/p/w1280/b1jGyoox4qUadimSOSZQiQS5JsW.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "3.0"
   }
 ]
