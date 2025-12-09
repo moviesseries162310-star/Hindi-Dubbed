@@ -378,5 +378,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7P3VyWQTnZOYIQnk5seM0YQ9ucg.jpg",
     "released": "2002-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1Z_bWJ1UQo71JpJ7_UD0ngDcqzaEz1hUc",
+    "type": "movie",
+    "name": "Just Like Heaven",
+    "poster": "https://image.tmdb.org/t/p/w500/2cLbyVNhEEaUJGg7rfbLtX6454I.jpg",
+    "description": "Shortly after David Abbott moves into his new San Francisco digs, he has an unwelcome visitor on his hands: winsome Elizabeth Masterson, who asserts that the apartment is hers -- and promptly vanishes. When she starts appearing and disappearing at will, David thinks she's a ghost, while Elizabeth is convinced she's alive.",
+    "background": "https://image.tmdb.org/t/p/w1280/k63j5qexRlpD3wxzETKfuZRVWiT.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "7.0"
   }
 ]
