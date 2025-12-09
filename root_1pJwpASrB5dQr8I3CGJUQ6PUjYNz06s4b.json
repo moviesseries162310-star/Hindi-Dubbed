@@ -1278,5 +1278,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dueiWzWc81UAgnbDAyH4Gjqnh4n.jpg",
     "released": "2020-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1Kki6uPsM7LfqF2fstvgB6BHmRO3Qsyy_",
+    "type": "movie",
+    "name": "We Can Be Heroes",
+    "poster": "https://image.tmdb.org/t/p/w500/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg",
+    "description": "When alien invaders capture Earth's superheroes, their kids must learn to work together to save their parents - and the planet.",
+    "background": "https://image.tmdb.org/t/p/w1280/y6FYAhaeFMj9Lsk8OdF2NeWQkbd.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.0"
   }
 ]
