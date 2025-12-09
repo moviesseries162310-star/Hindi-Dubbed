@@ -598,5 +598,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/py80SC0Espwjk2dgjGldEEru2sD.jpg",
     "released": "2007-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1vWXbjzUkR3G7W7owVInHuUE1GnBs0q5U",
+    "type": "movie",
+    "name": "The Omen",
+    "poster": "https://image.tmdb.org/t/p/w500/kf1Qq9b32jn4umll9qD2ue5ftnh.jpg",
+    "description": "A diplomatic couple adopts the son of the devil without knowing it. A remake of the classic horror film of the same name from 1976.",
+    "background": "https://image.tmdb.org/t/p/w1280/cIdt86pqHfSZQRduKh0xFvnqtwE.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "5.7"
   }
 ]
