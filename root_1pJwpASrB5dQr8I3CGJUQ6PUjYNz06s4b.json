@@ -1698,5 +1698,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/akvlTeB0LiNzw9U9YCAB8wwb5Qo.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1b_LZRo9Y1M42JasUDQ3S7UL3KLh8zPIM",
+    "type": "movie",
+    "name": "Hard Copy",
+    "poster": "https://image.tmdb.org/t/p/w500/rmeFSzjQKlFQ5Arwh7UGu23odAM.jpg",
+    "description": "Charlotte, a young reporter eager for promotion, is commissioned to write a newspaper article about a wild sex club in London. Overcoming her inhibitions, she joins the scene and finds herself falling for Simon, a charming but manipulative man who seduces her with an ulterior motive.",
+    "background": "https://image.tmdb.org/t/p/w1280/hsmpWJrlMBwlHRAxLHJZppbKyMA.jpg",
+    "released": "2023-01-01",
+    "imdbRating": null
   }
 ]
