@@ -1768,5 +1768,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9VDbhAmvGVZ6FbpMl0zW3zENhxK.jpg",
     "released": "2025-01-01",
     "imdbRating": "4.0"
+  },
+  {
+    "id": "gdrive:1PDvUuV3pRLJJcxkoXjgjmy3zo5VtuLZY",
+    "type": "movie",
+    "name": "Feel the Beat",
+    "poster": "https://image.tmdb.org/t/p/w500/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg",
+    "description": "After failing to make it on Broadway, April returns to her hometown and reluctantly begins training a misfit group of young dancers for a competition.",
+    "background": "https://image.tmdb.org/t/p/w1280/fZBQOScjDT8TAipEyCkLVeDTu5c.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.6"
   }
 ]
