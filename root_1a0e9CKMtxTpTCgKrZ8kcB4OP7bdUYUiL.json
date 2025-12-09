@@ -1238,5 +1238,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kzQIEkQtkNZJ3zCLAW0WPQm8VAE.jpg",
     "released": "2006-01-01",
     "imdbRating": "4.6"
+  },
+  {
+    "id": "gdrive:1rxmHnfC_byzsWFUaBcQhkivnsQsXqGvp",
+    "type": "movie",
+    "name": "The Boat That Rocked",
+    "poster": "https://image.tmdb.org/t/p/w500/l7CBRLAXUnHi0kp2krhLtlJvtWI.jpg",
+    "description": "When a group of rebellious deejays decides to defy the ban on government-censored music, they take to the seas to broadcast music and mayhem to millions of adoring fans.",
+    "background": "https://image.tmdb.org/t/p/w1280/vZS0CQBaxj1CPFWTICXLXMJbb3o.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "7.2"
   }
 ]
