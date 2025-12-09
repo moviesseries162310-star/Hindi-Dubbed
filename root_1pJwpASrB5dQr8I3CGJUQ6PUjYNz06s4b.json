@@ -1108,5 +1108,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ktAfWafrgoh13MHgo7av2W0hGAb.jpg",
     "released": "2020-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:17E3tqR1O7PKccKj0tb5Dm7_GBwjdp7oJ",
+    "type": "movie",
+    "name": "The Thursday Murder Club",
+    "poster": "https://image.tmdb.org/t/p/w500/u0o7XtI0WWdLzlK9hVT8lQTB6Yd.jpg",
+    "description": "A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.",
+    "background": "https://image.tmdb.org/t/p/w1280/4KN06gns94rQFoYQWDGunK7Cob4.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.6"
   }
 ]
