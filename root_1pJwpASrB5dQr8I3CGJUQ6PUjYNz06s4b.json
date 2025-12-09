@@ -1498,5 +1498,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uJGgrG1ZvnwCkM8VP9CigW813ax.jpg",
     "released": "2023-01-01",
     "imdbRating": "3.0"
+  },
+  {
+    "id": "gdrive:1JEJ-KucIbwpDn6SwIIj4lfiii2ODcU14",
+    "type": "movie",
+    "name": "Brick",
+    "poster": "https://image.tmdb.org/t/p/w500/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+    "description": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+    "background": "https://image.tmdb.org/t/p/w1280/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.8"
   }
 ]
