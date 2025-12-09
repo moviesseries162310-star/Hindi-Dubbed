@@ -938,5 +938,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eT1L3IVcHUL58wLn48E5dxlea3Z.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:18t1cr98O_qL8e-u4oWJT3vHLA8N4aLdZ",
+    "type": "movie",
+    "name": "Play Dirty",
+    "poster": "https://image.tmdb.org/t/p/w500/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
+    "description": "Expert thief Parker gets a shot at a major heist, but to pull it off he and his team must outsmart a South American dictator, the New York mob, and the world's richest man.",
+    "background": "https://image.tmdb.org/t/p/w1280/k6tdiMTO39RQj3dhfspuzprfoe0.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.6"
   }
 ]
