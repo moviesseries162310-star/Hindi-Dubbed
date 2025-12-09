@@ -728,5 +728,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yf5I5VHllK4h5VdbxHfQ40RBTe8.jpg",
     "released": "1999-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive:1VLRISF534nOhW-8busALxhsX1JO_4uLx",
+    "type": "movie",
+    "name": "Hurry Up Tomorrow",
+    "poster": "https://image.tmdb.org/t/p/w500/9W44XSMYbjXdlXcQhD104zPhhhJ.jpg",
+    "description": "A musician plagued by insomnia is pulled into an odyssey with a stranger who begins to unravel the very core of his existence.",
+    "background": "https://image.tmdb.org/t/p/w1280/iqQSRP52a8q7CNViVyXz6nC5CJP.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.3"
   }
 ]
