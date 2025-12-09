@@ -698,5 +698,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1Vxha5Kwg9GvuNxP3-EGxoDs2bT9SKJxZ",
+    "type": "movie",
+    "name": "Good News",
+    "poster": "https://image.tmdb.org/t/p/w500/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg",
+    "description": "When hijackers seize a Japanese flight and demand to fly to Pyongyang, a mysterious mastermind hatches a zany scheme to reroute the plane to Seoul.",
+    "background": "https://image.tmdb.org/t/p/w1280/iceD8kM2Dk6hIK2zWodkT0m6zDx.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.9"
   }
 ]
