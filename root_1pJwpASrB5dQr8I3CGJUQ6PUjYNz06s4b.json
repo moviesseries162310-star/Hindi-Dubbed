@@ -1528,5 +1528,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1rMEfCMHichGXsBZlNeaBjMyrn1vsTTpo",
+    "type": "movie",
+    "name": "Stranded",
+    "poster": "https://image.tmdb.org/t/p/w500/4lYQNDWK4lACypqOqNWipmi1dWa.jpg",
+    "description": "How long does it take before the abnormal seems normal? Death, love and family values are all up for re-negotiation in this dark and unusual black comedy about a girl trying to start a new life for herself after the loss of her mother.",
+    "background": null,
+    "released": "2006-01-01",
+    "imdbRating": "6.1"
   }
 ]
