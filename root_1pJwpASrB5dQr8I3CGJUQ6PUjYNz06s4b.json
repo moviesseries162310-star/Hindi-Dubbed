@@ -998,5 +998,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6bfas8v3FzZ3qpzR2RWpw4z9DT7.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1cguIJUiI3oaj0TekhAkTLkq4XFaHqw__",
+    "type": "movie",
+    "name": "Holy Night: Demon Hunters",
+    "poster": "https://image.tmdb.org/t/p/w500/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg",
+    "description": "When a devil-worshipping criminal network plunges Seoul into chaos, the police turn to Holy Night—a trio of supernatural demon hunters—to restore order and defeat the rising evil.",
+    "background": "https://image.tmdb.org/t/p/w1280/5A01YSCPYoCOZOhh9tU7F3Htxkf.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.8"
   }
 ]
