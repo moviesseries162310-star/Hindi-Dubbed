@@ -1188,5 +1188,15 @@
     "background": null,
     "released": "2024-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1EyNkhOXwb5t3hUu-qqfbsEF9CnVVCWJa",
+    "type": "movie",
+    "name": "The Hobbits",
+    "poster": "https://image.tmdb.org/t/p/w500/hpGe0jOdYFmnWanvZ2DKyXGVrFf.jpg",
+    "description": "Hobitit is a Finnish live action fantasy television miniseries originally broadcast in 1993 on Yle TV1. Produced by Olof Qvickström, it is based on the events of the books The Hobbit and The Lord of the Rings by J. R. R. Tolkien.",
+    "background": "https://image.tmdb.org/t/p/w1280/vPBdQyLakG0m4jfSZO8et6X4OIc.jpg",
+    "released": "1993-01-01",
+    "imdbRating": "5.5"
   }
 ]
