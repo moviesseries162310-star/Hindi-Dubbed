@@ -108,5 +108,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/u8nixC0Ob974xRn3c1X1S69SjrN.jpg",
     "released": "1988-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1rMeEsAcJR-tmqQXq5PRK6A3QEVlW44Vl",
+    "type": "movie",
+    "name": "American Beauty",
+    "poster": "https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+    "description": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+    "background": "https://image.tmdb.org/t/p/w1280/2ndw55F40IkALzWyjCCza3M6nqM.jpg",
+    "released": "1999-01-01",
+    "imdbRating": "8.0"
   }
 ]
