@@ -1738,5 +1738,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/AmzVV7kqds8BJBXwnQtx5YpqFdU.jpg",
     "released": "2021-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1uDXnLjDnPQl1o1ejlp6nYRiCaCg-PyN7",
+    "type": "movie",
+    "name": "The Pirates: The Last Royal Treasure",
+    "poster": "https://image.tmdb.org/t/p/w500/50UQeTrUM7ErXzkvqCsV6EXcM3g.jpg",
+    "description": "A gutsy crew of Joseon pirates and bandits battle stormy waters, puzzling clues and militant rivals in search of royal gold lost at sea.",
+    "background": "https://image.tmdb.org/t/p/w1280/pwpw1veVNW2Sls5sGbA9mqMYN49.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.6"
   }
 ]
