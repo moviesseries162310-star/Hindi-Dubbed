@@ -818,5 +818,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
     "released": "1993-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive:1ioM5WuPaJf_ujv16W6V7v_NixSfi5pSf",
+    "type": "movie",
+    "name": "Se7en",
+    "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "description": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "background": "https://image.tmdb.org/t/p/w1280/hkKTtlHjiVUW5XRfkQfl3FmJUfX.jpg",
+    "released": "1995-01-01",
+    "imdbRating": "8.4"
   }
 ]
