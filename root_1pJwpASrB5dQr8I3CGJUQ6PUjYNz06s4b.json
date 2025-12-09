@@ -748,5 +748,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1CbwD5ULRg_01zT8u2Rfup9ECR_ndTzEy",
+    "type": "movie",
+    "name": "The Stranger in My Home",
+    "poster": "https://image.tmdb.org/t/p/w500/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg",
+    "description": "A handsome stranger's claim that a couple's 15-year-old daughter was switched at birth throws their perfect family into turmoil, unearthing shattering secrets.",
+    "background": "https://image.tmdb.org/t/p/w1280/1Xxr8zwRZDNeUD65O9m663P6A5K.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.6"
   }
 ]
