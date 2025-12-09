@@ -668,5 +668,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1UsEBPYdjfuvxZikfdv-cEUxpTLzOARYQ",
+    "type": "movie",
+    "name": "Striking Rescue",
+    "poster": "https://image.tmdb.org/t/p/w500/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg",
+    "description": "A veteran Muay Thai expert goes on a take-no-prisoners mission of revenge after his wife and daughter are brutally murdered by mysterious forces.",
+    "background": "https://image.tmdb.org/t/p/w1280/yth78N88nwokepnOe5atwPGfTL1.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.4"
   }
 ]
