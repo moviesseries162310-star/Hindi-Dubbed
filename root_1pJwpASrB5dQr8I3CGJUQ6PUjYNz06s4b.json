@@ -1338,5 +1338,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uFjqB95kxb3iAK1cohxNx8MbPzZ.jpg",
     "released": "2013-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1hJDf9Ji-lsYddpJKqTSAxKhy5vh50c4g",
+    "type": "movie",
+    "name": "Handsome Guys",
+    "poster": "https://image.tmdb.org/t/p/w500/5yUPKpy6ijvEBI5b6L0kJC30NHm.jpg",
+    "description": "Brothers Jae-pil and Sang-gu move into their dream rustic-style house in the woods. When unwanted visitors arrive and awaken a sealed evil spirit in the basement, a dark aura begins to envelop the house.",
+    "background": "https://image.tmdb.org/t/p/w1280/7qMw4BkgvCLBev11Db5ygXNisaF.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.8"
   }
 ]
