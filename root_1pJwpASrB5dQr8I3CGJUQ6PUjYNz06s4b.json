@@ -1348,5 +1348,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7qMw4BkgvCLBev11Db5ygXNisaF.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:11xOmTihOy_LeLi1PLyobYCrP4tT-5DoJ",
+    "type": "movie",
+    "name": "Oddity",
+    "poster": "https://image.tmdb.org/t/p/w500/3Z9c1tbUhP0QruRjczPHnbx3U2D.jpg",
+    "description": "After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.",
+    "background": "https://image.tmdb.org/t/p/w1280/6GhU4BJnqLSaAuz0yQBq3RfdzsF.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.7"
   }
 ]
