@@ -588,5 +588,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lmjReP9aoEZFFyqDP1JP4F0Ohsf.jpg",
     "released": "1995-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1w6kAIlAEbNXYI75YCTRU1q20C8MoUrQf",
+    "type": "movie",
+    "name": "The Specialist",
+    "poster": "https://image.tmdb.org/t/p/w500/9CVAjtkSaFs9FyddGfThj11ZuQq.jpg",
+    "description": "May Munro is a woman obsessed with getting revenge on the people who murdered her parents when she was still a girl. She hires Ray Quick, a retired explosives expert, to kill her parents' killers. When Ned Trent, embittered ex-partner of Quick's, is assigned to protect one of Quick's potential victims, a deadly game of cat and mouse ensues.",
+    "background": "https://image.tmdb.org/t/p/w1280/fvBshQMwOnYZdUXySGMdT6LiqsI.jpg",
+    "released": "1994-01-01",
+    "imdbRating": "5.9"
   }
 ]
