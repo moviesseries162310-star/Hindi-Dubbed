@@ -1828,5 +1828,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/z3Qc5a0grcCREAQKqI195P05dVf.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1AR09AJnA5V_Fi1KC1_BTIfpGVgNcrpSj",
+    "type": "movie",
+    "name": "Parallel",
+    "poster": "https://image.tmdb.org/t/p/w500/4RQ2xOgRjw00ge7f2srg3bBAwZp.jpg",
+    "description": "Grief-stricken after the loss of her child, Vanessa takes refuge at a lake house only to be met with an aberration of herself from a parallel universe and realizes the multiverse gates hold the key to releasing her grief or trapping her forever.",
+    "background": "https://image.tmdb.org/t/p/w1280/zky1xbkgDwCMiNOLFoPRyjHMo2w.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.4"
   }
 ]
