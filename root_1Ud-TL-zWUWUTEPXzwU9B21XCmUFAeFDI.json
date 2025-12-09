@@ -728,5 +728,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8tv3QAZrR94nfLkhsezPcc3bza5.jpg",
     "released": "2018-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive-folder:11wgnU3Rh3QtLIlIdzHqA4mAM8rYhdwP5",
+    "type": "movie",
+    "name": "The Equalizer",
+    "poster": "https://image.tmdb.org/t/p/w500/7nrKPxGJWYe5cacNN9AV9bVplNZ.jpg",
+    "description": "Robert McCall is a former agent of a secret government agency who is now running his own private crime fighting operation where he fashions himself as \"The Equalizer.\" It is a service for victims of the system who have exhausted all possible means of seeking justice and have nowhere to go. McCall promises to even out the odds for them.",
+    "background": "https://image.tmdb.org/t/p/w1280/izWGnAJpD6Lthmq39s7Uyja2RgW.jpg",
+    "released": "1985-01-01",
+    "imdbRating": "7.1"
   }
 ]
