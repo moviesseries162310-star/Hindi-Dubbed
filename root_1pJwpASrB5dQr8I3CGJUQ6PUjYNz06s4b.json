@@ -1128,5 +1128,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dkpAbMdLZ6OgHZBXM6NG7fMp9mJ.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1lfxJH00flNnuoj_cXseeIBVBzX3c1z01",
+    "type": "movie",
+    "name": "Love Hurts",
+    "poster": "https://image.tmdb.org/t/p/w500/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
+    "description": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
+    "background": "https://image.tmdb.org/t/p/w1280/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.7"
   }
 ]
