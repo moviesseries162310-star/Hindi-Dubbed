@@ -248,5 +248,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zkvN3WeNvQQNxPmfcYFyijpANJ4.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1hzs3-5Zqt55dpcCy8Mq4E8D71cI_exvl",
+    "type": "movie",
+    "name": "In Your Dreams",
+    "poster": "https://image.tmdb.org/t/p/w500/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
+    "description": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+    "background": "https://image.tmdb.org/t/p/w1280/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.1"
   }
 ]
