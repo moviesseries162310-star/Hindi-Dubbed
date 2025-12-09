@@ -1628,5 +1628,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive:17pCAsLQFAxeQ8pd7WwP3xBG7mlibGjs9",
+    "type": "movie",
+    "name": "Mummy Dearest",
+    "poster": "https://image.tmdb.org/t/p/w500/s6Oy6NniewNVrkPyNl3Yb4KSJFv.jpg",
+    "description": "A psychologically unstable man accidentally kills a junkie, sparking a cat-and-mouse game with a clever inspector who befriends the man's mother to expose the truth.",
+    "background": "https://image.tmdb.org/t/p/w1280/52qSNsoS3F0w8lf068oTOHqHqrO.jpg",
+    "released": "1985-01-01",
+    "imdbRating": null
   }
 ]
