@@ -798,5 +798,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1RDhFyQdwfayVdQa_vubtX6zNyscDy_0i",
+    "type": "movie",
+    "name": "Space Sweepers",
+    "poster": "https://image.tmdb.org/t/p/w500/bmemsraCG1kIthY74NjDnnLRT2Q.jpg",
+    "description": "When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that's known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.",
+    "background": "https://image.tmdb.org/t/p/w1280/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.1"
   }
 ]
