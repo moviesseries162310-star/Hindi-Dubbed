@@ -98,5 +98,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wUzCzeM7ZRG0kHHOU8wiTrXdocd.jpg",
     "released": "1997-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1zt_GUJ22R8FMzrpZlbsMZx8EKsgQ9drj",
+    "type": "movie",
+    "name": "A Summer Story",
+    "poster": "https://image.tmdb.org/t/p/w500/3uy8p48wyd4gBBtJKbyQPvE0nze.jpg",
+    "description": "A young lawyer from London, Mr. Ashton, and his best friend are hiking across Dartmoor. When he twists his ankle, Ashton is forced to seek help at a nearby farmhouse and stays there for a few days. Innocent beauty Megan David catches the attention of Ashton. He decides to stay longer, and he and Megan fall in love, much to the displeasure of Megan's aunt and her loutish son.",
+    "background": "https://image.tmdb.org/t/p/w1280/u8nixC0Ob974xRn3c1X1S69SjrN.jpg",
+    "released": "1988-01-01",
+    "imdbRating": "6.0"
   }
 ]
