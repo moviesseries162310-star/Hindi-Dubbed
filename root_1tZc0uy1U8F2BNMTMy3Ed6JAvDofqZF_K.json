@@ -758,5 +758,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cC9oBBqGcOdBheKre24YfthsptI.jpg",
     "released": "1998-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1mQs0ljorPG4x3KDjVy1qxFevQLkaxXgf",
+    "type": "movie",
+    "name": "Blue Streak",
+    "poster": "https://image.tmdb.org/t/p/w500/jek2osBtFhzU6Hjj7yp1egOtbqO.jpg",
+    "description": "Miles Logan is a jewel thief who just hit the big time by stealing a huge diamond. However, after two years in jail, he comes to find out that he hid the diamond in a police building that was being built at the time of the robbery. In an attempt to regain his diamond, he poses as an LAPD detective.",
+    "background": "https://image.tmdb.org/t/p/w1280/xDKuTzBVpJPqFc39H4hctrle87T.jpg",
+    "released": "1999-01-01",
+    "imdbRating": "6.5"
   }
 ]
