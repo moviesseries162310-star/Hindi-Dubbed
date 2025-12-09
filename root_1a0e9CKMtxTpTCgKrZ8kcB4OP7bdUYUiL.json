@@ -1418,5 +1418,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vEEEKiUJOXmOJXW7X8P3kCgsm9p.jpg",
     "released": "2004-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1rlvcf0nhSwWyMZLE_laDb-apxvGlH3gR",
+    "type": "movie",
+    "name": "Dracula's Curse",
+    "poster": "https://image.tmdb.org/t/p/w500/5bf4omXTPvQcLzZyhr4pEI81M0H.jpg",
+    "description": "A team of vampire hunters set out to battle an evil vampire clan in the dark underworld.",
+    "background": "https://image.tmdb.org/t/p/w1280/8IemvwWQECykrF0E7GC9SqonnYZ.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "4.1"
   }
 ]
