@@ -418,5 +418,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tX8ghheBz4jnCTSdJW4uVSCRayJ.jpg",
     "released": "1928-01-01",
     "imdbRating": "4.2"
+  },
+  {
+    "id": "gdrive:1N0MReaDPN7Dz5Ry2qWoreL7WnSYSL8bu",
+    "type": "movie",
+    "name": "Mona Lisa Smile",
+    "poster": "https://image.tmdb.org/t/p/w500/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+    "description": "Katherine Watson is a recent UCLA graduate hired to teach art history at the prestigious all-female Wellesley College, in 1953. Determined to confront the outdated mores of society and the institution that embraces them, Katherine inspires her traditional students, including Betty and Joan, to challenge the lives they are expected to lead.",
+    "background": "https://image.tmdb.org/t/p/w1280/trfjdJI51Krnig9UmxJQkz15ICo.jpg",
+    "released": "2003-01-01",
+    "imdbRating": "6.9"
   }
 ]
