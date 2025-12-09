@@ -918,5 +918,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bAG05yQkT56yFuLAETr12UfK05y.jpg",
     "released": "2006-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1lvNy_EqGVLSxAXS0L3ky8x52iOzkedMj",
+    "type": "movie",
+    "name": "The New World",
+    "poster": "https://image.tmdb.org/t/p/w500/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg",
+    "description": "A drama about explorer John Smith and the clash between Native Americans and English settlers in the 17th century.",
+    "background": "https://image.tmdb.org/t/p/w1280/basalqnxZZdLnc2qd60Zy5WYR2k.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "6.5"
   }
 ]
