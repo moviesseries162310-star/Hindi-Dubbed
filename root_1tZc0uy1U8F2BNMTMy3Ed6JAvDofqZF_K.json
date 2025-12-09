@@ -598,5 +598,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fvBshQMwOnYZdUXySGMdT6LiqsI.jpg",
     "released": "1994-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1fzHQbBuIaZR6Gcl14WwaB7bw5sS9FPIL",
+    "type": "movie",
+    "name": "The Juror",
+    "poster": "https://image.tmdb.org/t/p/w500/31mRYhJvaknQx8PQnR2UV7YCkLT.jpg",
+    "description": "With his gangster boss on trial for murder, a mob thug known as \"the Teacher\" tells Annie Laird she must talk her fellow jurors into a not-guilty verdict, implying that he'll kill her son Oliver if she fails. She manages to do this, but, when it becomes clear that the mobsters might want to silence her for good, she sends Oliver abroad and tries to gather evidence of the plot against her, setting up a final showdown.",
+    "background": "https://image.tmdb.org/t/p/w1280/g0CGOIl3H1FDsqHpPzlfkhXAtv8.jpg",
+    "released": "1996-01-01",
+    "imdbRating": "5.7"
   }
 ]
