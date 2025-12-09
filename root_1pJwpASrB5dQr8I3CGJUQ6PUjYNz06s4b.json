@@ -778,5 +778,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pPCEkJh2DUFnqtmOo3yprvcYW8c.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1-YFLlx_3pDqkWziMzkCGgIM4yr4CkFlh",
+    "type": "movie",
+    "name": "The Rule of Jenny Pen",
+    "poster": "https://image.tmdb.org/t/p/w500/5vqK1wbrgmUvqHn6yPt9b6qT9iL.jpg",
+    "description": "Confined to a secluded rest home and trapped within his stroke-ridden body, a former Judge must stop an elderly psychopath who employs a child's puppet to abuse the home's residents with deadly consequences.",
+    "background": "https://image.tmdb.org/t/p/w1280/eftVUg9R1lys3wT8kHJqMaK64m7.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
