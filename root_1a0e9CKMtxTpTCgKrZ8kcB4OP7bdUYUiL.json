@@ -1108,5 +1108,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rgImWBvvXCGTl4mNJ3L5960svfV.jpg",
     "released": "2004-01-01",
     "imdbRating": "4.9"
+  },
+  {
+    "id": "gdrive:1huRJ8ZXI7IQGZUAKMo4xqlfGjHLYRhf4",
+    "type": "movie",
+    "name": "The Fog",
+    "poster": "https://image.tmdb.org/t/p/w500/v9vt49PUDJGkrMVjhb3yiYo7H4Y.jpg",
+    "description": "Trapped within an eerie mist, the residents of Antonio Bay have become the unwitting victims of a horrifying vengeance. One hundred years earlier, a ship carrying lepers was purposely lured onto the rocky coastline and sank, drowning all aboard. Now they're back – long-dead mariners who've waited a century for their revenge.",
+    "background": "https://image.tmdb.org/t/p/w1280/dzPsIeSaPYmaygtRaOzrrziHReD.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "4.6"
   }
 ]
