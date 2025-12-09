@@ -1028,5 +1028,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yAqL0makiGke5yYiVWpmBDSKIVP.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1aa2vYkcClx_tbdrXRTzVl95a2g8RyRGj",
+    "type": "movie",
+    "name": "Girls",
+    "poster": "https://image.tmdb.org/t/p/w500/vjZzBKDZl0S6GV8t9oTg8HSpf1O.jpg",
+    "description": "Fate has brought them together and nothing and nobody seems to be able to stop them: Romane and Ally speed off into the night on their motorcycle. And straight to their doom when they stop at a run-down petrol station. A tough fight for survival begins.",
+    "background": "https://image.tmdb.org/t/p/w1280/1QLvYvr5xc6zp0lMTs3ztdA7UPA.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "2.7"
   }
 ]
