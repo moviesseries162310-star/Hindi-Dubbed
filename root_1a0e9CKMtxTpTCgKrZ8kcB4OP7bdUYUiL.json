@@ -1468,5 +1468,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vr2B7YO2E8EDgkiR3uouPZVCpxQ.jpg",
     "released": "2007-01-01",
     "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive:1-4H3JuHP2Tk6gR9817iRzAxEJmpGmRUK",
+    "type": "movie",
+    "name": "Return to Halloweentown",
+    "poster": "https://image.tmdb.org/t/p/w500/9lkAYfaaUf46lkXKEWq94wuUs3m.jpg",
+    "description": "As Halloweentown prepares to celebrate its 1,000th anniversary, Marnie Piper and her brother Dylan return to Witch University, where trouble is in session from the Sinister Sisters and from someone who's plotting to use Marnie's powers for evil.",
+    "background": "https://image.tmdb.org/t/p/w1280/2oHTGGcBCnS3hhm1hvnb0aXFoTt.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "6.7"
   }
 ]
