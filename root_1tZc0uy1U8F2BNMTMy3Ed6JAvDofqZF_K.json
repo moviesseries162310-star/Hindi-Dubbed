@@ -338,5 +338,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/q7Oly6ohRxOi3GC9UDbOiHbKC9g.jpg",
     "released": "1988-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:18Y9xrA5FlGD2rX1ucU7nFbvLxZsv9Xks",
+    "type": "movie",
+    "name": "The Shadow",
+    "poster": "https://image.tmdb.org/t/p/w500/xAbFJH3vQYZvUyzzGAtG4OLy492.jpg",
+    "description": "Based on the 1930s comic strip, The Shadow is put up against his archenemy Shiwan Khan, who plans to take over the world by holding a city to ransom using an atom bomb. Using his powers of invisibility and \"the power to cloud men's minds\", The Shadow comes blazing to the rescue with explosive results.",
+    "background": "https://image.tmdb.org/t/p/w1280/j3CMtQbRS4bBAuRuoTBpnPAaHSj.jpg",
+    "released": "1994-01-01",
+    "imdbRating": "6.1"
   }
 ]
