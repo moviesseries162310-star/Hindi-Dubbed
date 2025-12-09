@@ -1458,5 +1458,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/JMlVj6X2F1PuDz9OyHShThzpa2.jpg",
     "released": "2024-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1ntjstPiOa-y6GFRxyxJN0oMFfj8_0ddg",
+    "type": "movie",
+    "name": "Madea's Destination Wedding",
+    "poster": "https://image.tmdb.org/t/p/w500/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg",
+    "description": "Madea packs her best floral dresses and a whole lot of chaos when the Simmons family heads to the Bahamas for her grandniece's whirlwind wedding.",
+    "background": "https://image.tmdb.org/t/p/w1280/rEX85lgoawCWv9l8bgEPRqWtdPp.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.1"
   }
 ]
