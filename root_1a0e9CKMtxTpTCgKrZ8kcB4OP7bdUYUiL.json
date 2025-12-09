@@ -978,5 +978,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sz1lYaWhRF18coQNi2IZbjW0bww.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive:1Tz3QW-eKKDqxeQDuM2EuE5mMZAcxwDAI",
+    "type": "movie",
+    "name": "Stiletto",
+    "poster": "https://image.tmdb.org/t/p/w500/gfo0WbbNIn2wI7qIgvhR8UsQrO7.jpg",
+    "description": "The seemingly random killings of an assassin puzzle her former lover, a wealthy Greek crime boss whose organization is jeopardized by his love for her, and the detective following her rising body count",
+    "background": "https://image.tmdb.org/t/p/w1280/1QX6QERf39ius66rzWmoJg3P8go.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "4.7"
   }
 ]
