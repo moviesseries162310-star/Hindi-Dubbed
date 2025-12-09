@@ -708,5 +708,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/iceD8kM2Dk6hIK2zWodkT0m6zDx.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1ysWPKs6ytrjsqoK6wcKbrowwLMtf_3-m",
+    "type": "movie",
+    "name": "She Walks in Darkness",
+    "poster": "https://image.tmdb.org/t/p/w500/lR7TH2IlUJWh92HuiYrlb8rNuCp.jpg",
+    "description": "A young agent leaves everything behind to pose as a member of ETA, risking her life to uncover the terrorists' hideouts in the south of France.",
+    "background": "https://image.tmdb.org/t/p/w1280/l2Fk70FTuBPDx32gTsVUrRvF8jC.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.7"
   }
 ]
