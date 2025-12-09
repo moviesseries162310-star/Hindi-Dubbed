@@ -988,5 +988,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/p4OIGFfVo3vbROMD1evVF0u14Rf.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1bNES66vvtrlyNESZJmg_UoNHqym9C1UH",
+    "type": "movie",
+    "name": "Dangerous Animals",
+    "poster": "https://image.tmdb.org/t/p/w500/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg",
+    "description": "A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
+    "background": "https://image.tmdb.org/t/p/w1280/6bfas8v3FzZ3qpzR2RWpw4z9DT7.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.4"
   }
 ]
