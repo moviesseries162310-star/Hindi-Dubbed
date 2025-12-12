@@ -10535,5 +10535,15 @@
     "background": null,
     "released": "1978-01-01",
     "imdbRating": "4.0"
+  },
+  {
+    "id": "gdrive:1UinE0QOE2nR9fBeLiBI5LhNLZwyC_EOa",
+    "type": "movie",
+    "name": "Sniper: The Last Stand",
+    "poster": "https://image.tmdb.org/t/p/w500/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+    "description": "To stop an arms dealer from unleashing a deadly superweapon, Ace sniper Brandon Beckett and Agent Zero are deployed to Costa Verde to lead a group of elite soldiers against an unrelenting militia. Taking an untested sniper under his wing, Beckett faces his newest challenge: giving orders instead of receiving them. With both time and ammo running low in a race to save humanity, the team must overcome all odds just to survive.",
+    "background": "https://image.tmdb.org/t/p/w1280/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.8"
   }
 ]
