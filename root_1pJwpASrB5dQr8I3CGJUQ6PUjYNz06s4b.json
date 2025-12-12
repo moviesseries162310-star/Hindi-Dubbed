@@ -10505,5 +10505,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1LhDBkNuOjlvqg_Lkof8TqeYvIZBhqMOr",
+    "type": "movie",
+    "name": "Tell Me Softly",
+    "poster": "https://image.tmdb.org/t/p/w500/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+    "description": "Kamila Hamilton had everything under control... or so she thought: she had no plans for the Di Bianco brothers to turn her world upside down again. Seven years ago, Thiago was the one who gave her her first kiss. And Taylor was the one who always protected her.",
+    "background": "https://image.tmdb.org/t/p/w1280/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.0"
   }
 ]
