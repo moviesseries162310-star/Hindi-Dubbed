@@ -10585,5 +10585,15 @@
     "background": null,
     "released": "2012-01-01",
     "imdbRating": "1.2"
+  },
+  {
+    "id": "gdrive:1T2l0buXLr0MPBdsmnjCqsR5_Ll4iO6IZ",
+    "type": "movie",
+    "name": "Sisu: Road to Revenge",
+    "poster": "https://image.tmdb.org/t/p/w500/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
+    "description": "Returning to the house where his family was brutally murdered during the war, 'the man who refuses to die' dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the Red Army commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues — a fight to the death.",
+    "background": "https://image.tmdb.org/t/p/w1280/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]
