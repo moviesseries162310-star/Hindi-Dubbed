@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gdrive:1lEK-R8e5IkwSB8htBRku43XQBYyE6iiG",
+    "type": "movie",
+    "name": "The Toxic Avenger",
+    "poster": "https://image.tmdb.org/t/p/w500/so0CGT1fZe2SlVdYXCewghxUgoj.jpg",
+    "description": "A gang of thugs devise a cruel hoax that goes horribly wrong as Melvin, a nerdy emaciated janitor at the local health club, is cast through a third story window into a vat of hazardous toxic waste.",
+    "background": "https://image.tmdb.org/t/p/w1280/tYXYvgoMVlaaAPPEJsVuh5mHLbQ.jpg",
+    "released": "1984-01-01",
+    "imdbRating": "6.3"
+  }
+]
