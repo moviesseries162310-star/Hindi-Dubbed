@@ -3400,5 +3400,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pYuTVQCfjv2YvpZ1jjsFKvjx7fe.jpg",
     "released": "2005-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1CDe0LayNLD7tWZ7wgXdmk7kknZgf74W8",
+    "type": "movie",
+    "name": "First Sunday",
+    "poster": "https://image.tmdb.org/t/p/w500/9l0sdc7ohLe6TdFsYyCTBnVn1F8.jpg",
+    "description": "Durell and LeeJohn are best friends and bumbling petty criminals. When told they have one week to pay a $17,000 debt or Durell will lose his son, they come up with a desperate scheme to rob their neighborhood church. Instead, they end up spending the night in the presence of the Lord and are forced to deal with much more than they bargained for.",
+    "background": "https://image.tmdb.org/t/p/w1280/vWcJ4qWHNwxxXPs9NwTWoWEHlXo.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "5.7"
   }
 ]
