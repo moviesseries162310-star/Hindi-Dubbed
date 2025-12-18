@@ -6768,5 +6768,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zOgzt8tLL2qhvIztiNP92S7YD0S.jpg",
     "released": "2011-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:15Hkrqc8Uq6RwpZ8tkjpTdaSLAffRKWWR",
+    "type": "movie",
+    "name": "A Beautiful Day in the Neighborhood",
+    "poster": "https://image.tmdb.org/t/p/w500/p9vCAVhDK375XyobVcKqzqzsUHE.jpg",
+    "description": "An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel's perspective on life is transformed.",
+    "background": "https://image.tmdb.org/t/p/w1280/cSJMk9Jar8SibFXL8JAF9p2fhKu.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.0"
   }
 ]
