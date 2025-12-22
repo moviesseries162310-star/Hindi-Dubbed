@@ -286,5 +286,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fO9naIbJmThrTNy59wPrpxLjcUw.jpg",
     "released": "2025-01-01",
     "imdbRating": "10.0"
+  },
+  {
+    "id": "gdrive:1AIjUcT8U_YS49HKO29tW4qg1t-rrQ1Mg",
+    "type": "movie",
+    "name": "The Christmas Baby",
+    "poster": "https://image.tmdb.org/t/p/w500/6PSxu99G31ipYwlK6cYS0CNQGv3.jpg",
+    "description": "When a baby boy shows up on their doorstep days before Christmas with a note written specially for them, Erin and Kelly must learn how to navigate their new relationship and career dynamics while unexpectedly caring for a newborn.",
+    "background": "https://image.tmdb.org/t/p/w1280/aPcHRnEYmr6Fn0ijwgwPT5fY4c0.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
