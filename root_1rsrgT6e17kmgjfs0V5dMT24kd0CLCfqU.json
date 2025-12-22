@@ -296,5 +296,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aPcHRnEYmr6Fn0ijwgwPT5fY4c0.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1TfZmZmnQLMgBeWIgI_wvfbscJKeVVX3v",
+    "type": "movie",
+    "name": "Serpentine Pink",
+    "poster": "https://image.tmdb.org/t/p/w500/fCtRuMSKMuXZYwm0M1yGR2EltKZ.jpg",
+    "description": "Set in the desert-weird wilds of Joshua Tree, California, Serpentine Pink is a distinctively visceral and surreal independent, female-centric film that digs into the various and rigorous ways a heart heals from trauma. Inspired by France's Grand Guignol style of horror theatre, and utilizing a lyrical language both visual and verbal to capture the strange poetry of the Mojave land and soundscape, Serpentine Pink follows a reclusive biker woman and her John Wayne-obsessed exotic dancer lover's disturbing fallout after a violent acid attack. An ethereal psychic and her aspiring healer companion converge with supernatural forces in an attempt to confront and then heal the women's - as well as their own - deep-rooted, personal pain that comes from trying to break the cycle of possessive love.",
+    "background": "https://image.tmdb.org/t/p/w1280/wu9o5PlqHntkniUDWQNtPShXFP0.jpg",
+    "released": "2022-01-01",
+    "imdbRating": null
   }
 ]
