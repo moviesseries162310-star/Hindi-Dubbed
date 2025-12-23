@@ -306,5 +306,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wu9o5PlqHntkniUDWQNtPShXFP0.jpg",
     "released": "2022-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1pb_aIQlp55_8pSOzxcbG0AtjwICkTAxq",
+    "type": "movie",
+    "name": "Eternity",
+    "poster": "https://image.tmdb.org/t/p/w500/o8pg20G67BGmQvRkXwstNre062J.jpg",
+    "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
+    "background": "https://image.tmdb.org/t/p/w1280/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]
