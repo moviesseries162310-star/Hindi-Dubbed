@@ -336,5 +336,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive:1Zua4Pp2c2OBe_ZjfKFuU2Q_pKshcbgkg",
+    "type": "movie",
+    "name": "Strange Magic",
+    "poster": "https://image.tmdb.org/t/p/w500/vjCdrK8gGRFnyuZb1j9BzgN2RaY.jpg",
+    "description": "A love potion works its devious charms on fairies, elves and the swamp-dwelling Bog King as they all try to possess the potion for themselves.",
+    "background": "https://image.tmdb.org/t/p/w1280/aUbyQhWcPS7S0Su2d9Tgk3NxdPk.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "7.2"
   }
 ]
