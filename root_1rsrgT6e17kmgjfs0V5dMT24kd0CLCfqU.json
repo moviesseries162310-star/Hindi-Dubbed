@@ -326,5 +326,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fNHCogWhABNAmzk0IFdzQP5XLYj.jpg",
     "released": "2009-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:1zkMHr0MJCUnYvCHdlFc3JsnQhtMc0ub9",
+    "type": "movie",
+    "name": "Knives Out",
+    "poster": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "description": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+    "background": "https://image.tmdb.org/t/p/w1280/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.8"
   }
 ]
