@@ -316,5 +316,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1w19otiVTQKQJ0_E15vOeOoaRU7qC-dod",
+    "type": "movie",
+    "name": "The Secret in Their Eyes",
+    "poster": "https://image.tmdb.org/t/p/w500/dkeAwfZzwL3WvToydE3CXiY80E0.jpg",
+    "description": "Hoping to put to rest years of unease concerning a past case, retired criminal investigator Benjamín begins writing a novel based on the unsolved mystery of a newlywed’s rape and murder. With the help of a former colleague, judge Irene, he attempts to make sense of the past.",
+    "background": "https://image.tmdb.org/t/p/w1280/fNHCogWhABNAmzk0IFdzQP5XLYj.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "8.0"
   }
 ]
