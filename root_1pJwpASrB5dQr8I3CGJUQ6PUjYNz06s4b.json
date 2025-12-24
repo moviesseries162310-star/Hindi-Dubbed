@@ -10725,5 +10725,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bZlismAr366jWFiZNKzY3x3AN5X.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1VeBl9c9PTEjTSL1UdvfIb-MUa3edZIuj",
+    "type": "movie",
+    "name": "Goodbye June",
+    "poster": "https://image.tmdb.org/t/p/w500/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+    "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
+    "background": "https://image.tmdb.org/t/p/w1280/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
