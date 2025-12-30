@@ -10755,5 +10755,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/x0pkoGlwWdkzRxgQioD3cUG0awu.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive:1OG5CoZhWL_hSS0pAxQuPOiO4IrN5uiiW",
+    "type": "movie",
+    "name": "Wicked: For Good",
+    "poster": "https://image.tmdb.org/t/p/w500/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",
+    "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+    "background": "https://image.tmdb.org/t/p/w1280/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.8"
   }
 ]
