@@ -10775,5 +10775,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1j34q3uJHzJZ23UuAZWMF3UYlnW0S-XPA",
+    "type": "movie",
+    "name": "Irresistible",
+    "poster": "https://image.tmdb.org/t/p/w500/hUpYDriYa5YkwwxeafUsowTweBg.jpg",
+    "description": "A Democratic political consultant helps a retired Marine colonel run for mayor in a small, conservative Wisconsin town.",
+    "background": "https://image.tmdb.org/t/p/w1280/eZ8eK0moqUo6Vwq08OK1POfyUF5.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.0"
   }
 ]
