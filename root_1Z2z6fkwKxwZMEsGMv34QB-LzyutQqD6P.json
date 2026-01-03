@@ -578,5 +578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gEMQOOhzr8xhJ61vRLQ5vLjgkoM.jpg",
     "released": "2018-01-01",
     "imdbRating": "3.3"
+  },
+  {
+    "id": "gdrive:1qvWDVQ8eQn3B1pMv1CwS1i62BmPWugsx",
+    "type": "movie",
+    "name": "Cicada!",
+    "poster": "https://image.tmdb.org/t/p/w500/z1OfnhjTJADRZ2yTY9RV23tYTU.jpg",
+    "description": "Four friends band together to defend Los Angeles from a swarm of giant bloodthirsty cicadas.",
+    "background": "https://image.tmdb.org/t/p/w1280/uEpuwNdRgIWSIb1lnYxcrl6gKp7.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "1.0"
   }
 ]
