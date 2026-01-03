@@ -168,5 +168,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zOgzt8tLL2qhvIztiNP92S7YD0S.jpg",
     "released": "2011-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1KaTbeUVaAt0qLiB24qLVGTSTJieVCRES",
+    "type": "movie",
+    "name": "Open Season: Scared Silly",
+    "poster": "https://image.tmdb.org/t/p/w500/tFD3HdVIXVbvVixIGhNmJBaqyAI.jpg",
+    "description": "The humans and animals believe a werewolf is on the loose, and former hunter Shaw uses the opportunity to re-open the season. Boog, Elliot, and Mr. Weenie have to face their fears and find the werewolf to get the season closed permanently.",
+    "background": "https://image.tmdb.org/t/p/w1280/lvxznRSXxzmGGh4kicfmYvZhedK.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "5.9"
   }
 ]
