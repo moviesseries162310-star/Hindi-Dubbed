@@ -10795,5 +10795,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4hAm8HaMVcnEfYm47GmUAGhQtS2.jpg",
     "released": "2025-01-01",
     "imdbRating": "9.0"
+  },
+  {
+    "id": "gdrive:17wOAxunhQoVT9FA26qlBynpYy_4FpQVW",
+    "type": "movie",
+    "name": "Eye for an Eye 2",
+    "poster": "https://image.tmdb.org/t/p/w500/mkfznkTshGBp88SFQQAGsr3R62z.jpg",
+    "description": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
+    "background": "https://image.tmdb.org/t/p/w1280/bx6LoGl8L3hwgOCoD2H8JgIu7uC.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.4"
   }
 ]
