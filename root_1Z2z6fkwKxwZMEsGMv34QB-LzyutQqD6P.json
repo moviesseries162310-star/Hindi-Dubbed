@@ -1363,11 +1363,11 @@
     "id": "gdrive:1kh88-uKlIdS883P80dJ1Kxqm2dFxboc4",
     "type": "movie",
     "name": "Veteran",
-    "poster": null,
-    "description": "Director Michael Mann is making a U.S. adaptation of 2015 South Korean crime thriller “Veteran.”",
-    "background": null,
-    "released": null,
-    "imdbRating": null
+    "poster": "https://image.tmdb.org/t/p/original/59KtPlcr2GQIudEA6B5KNY5NnBf.jpg",
+    "description": "When an old collaborator gets severely injured, a veteran policeman tries to figure out the way to bring to justice the ultimately suspected aggressor, a spoiled young executive, heir to a mega corporation, who believes he is above the law.",
+    "background": "https://image.tmdb.org/t/p/original/fDLC0FLTkEU2rMIbptxCRYWeceq.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "5.0"
   },
   {
     "id": "gdrive:1sJBydQ4oAg6Ky7Jvi4PGU6aeFo1GFxNy",
