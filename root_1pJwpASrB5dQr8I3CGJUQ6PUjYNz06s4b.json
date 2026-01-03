@@ -10785,5 +10785,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eZ8eK0moqUo6Vwq08OK1POfyUF5.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1bZFjQx1Z-6qJdJ-jdBuS30SAuYueWmzI",
+    "type": "movie",
+    "name": "The Demon Hunter",
+    "poster": "https://image.tmdb.org/t/p/w500/lLOmriVwsfJRA1gQhA7g9na5mdO.jpg",
+    "description": "To save his wife A Rou, Lang Wujue sets out on a dangerous demon-hunting journey but is tricked by Daoist Baiyun and transformed into a beast. With A Rou’s awakened spirit, she begins a long, difficult quest to break the curse and restore his humanity.",
+    "background": "https://image.tmdb.org/t/p/w1280/4hAm8HaMVcnEfYm47GmUAGhQtS2.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "9.0"
   }
 ]
