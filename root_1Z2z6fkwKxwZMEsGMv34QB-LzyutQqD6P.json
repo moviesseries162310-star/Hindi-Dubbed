@@ -288,5 +288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sxPycUAaLJJGq2lhhgzR96ePaO0.jpg",
     "released": "2019-01-01",
     "imdbRating": "4.4"
+  },
+  {
+    "id": "gdrive:1QJcwtXx5N40I3DIGqp0t9I_MfO0nmar_",
+    "type": "movie",
+    "name": "Fright Night",
+    "poster": "https://image.tmdb.org/t/p/w500/ySQ3v4Fzpy3fePs86eoLiDzwLYM.jpg",
+    "description": "A teenager suspects his new neighbour is a vampire. Unable to convince anyone, he tries to enlist the help of a self-proclaimed vampire hunter and magician.",
+    "background": "https://image.tmdb.org/t/p/w1280/llSmoD6mmfIQIQspwbckAYd110Z.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "6.2"
   }
 ]
