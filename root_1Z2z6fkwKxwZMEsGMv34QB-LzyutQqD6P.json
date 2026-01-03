@@ -1250,16 +1250,6 @@
     "imdbRating": "6.0"
   },
   {
-    "id": "gdrive:1cSRWH37M_aq_bTgbqps9FDXvSZ5nkJIo",
-    "type": "movie",
-    "name": "T",
-    "poster": "https://image.tmdb.org/t/p/w500/nnF3Fx3Zt8O7AtR9g3CIzGle78N.jpg",
-    "description": "A film crew follows three grieving participants of Miami’s annual T Ball, where folks assemble to model R.I.P. t-shirts and innovative costumes designed in honor of their dead.",
-    "background": "https://image.tmdb.org/t/p/w1280/pkaae3FNgmGGzMlMCcbTpD2HiVx.jpg",
-    "released": "2019-01-01",
-    "imdbRating": "6.7"
-  },
-  {
     "id": "gdrive:1rtAKRwsq7KihQaSUWdeQamlnfdTutHTj",
     "type": "movie",
     "name": "The Merciless",
@@ -2102,11 +2092,11 @@
   {
     "id": "gdrive:1kuFyLdHr_oRkx8qokOG_YatTCVGEGYiF",
     "type": "movie",
-    "name": "T",
-    "poster": "https://image.tmdb.org/t/p/w500/nnF3Fx3Zt8O7AtR9g3CIzGle78N.jpg",
-    "description": "A film crew follows three grieving participants of Miami’s annual T Ball, where folks assemble to model R.I.P. t-shirts and innovative costumes designed in honor of their dead.",
-    "background": "https://image.tmdb.org/t/p/w1280/pkaae3FNgmGGzMlMCcbTpD2HiVx.jpg",
-    "released": "2019-01-01",
+    "name": "T-34",
+    "poster": "https://image.tmdb.org/t/p/original/wMO5XGq2ybhL3CdCEPJ8OXWbNZG.jpg",
+    "description": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+    "background": "https://image.tmdb.org/t/p/original/daJjtHlqvph7R1Uw1DFUIF0FJe4.jpg",
+    "released": "2018-01-01",
     "imdbRating": "6.7"
   },
   {
