@@ -3738,5 +3738,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kU4EafCWSksRo8Lnno91mzOURgN.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.4"
+  },
+  {
+    "id": "gdrive:10kA0qk8O7Y-4LHzrCY6j6ZLqfHhRGUzL",
+    "type": "movie",
+    "name": "King Lear",
+    "poster": "https://image.tmdb.org/t/p/w500/jDD7khsI9SEktAfn01yhuSYAX7A.jpg",
+    "description": "Caught in a carousel of memory, the head of a dysfunctional royal family grapples with power-hungry children and the threat of losing the empire he created. Real and imagined worlds coalesce, creating a political and personal horror that threatens to swallow the mind of the monarch.",
+    "background": null,
+    "released": "2023-01-01",
+    "imdbRating": null
   }
 ]
