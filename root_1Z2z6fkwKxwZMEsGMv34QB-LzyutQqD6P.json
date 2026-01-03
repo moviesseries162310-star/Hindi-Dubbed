@@ -1343,11 +1343,11 @@
     "id": "gdrive:1ME0Yua-ymRfa3bS7Rv8B-iJHZlaq30UP",
     "type": "movie",
     "name": "The Tower",
-    "poster": null,
-    "description": "A dark drama that follows an ensemble of different characters who reside within a rundown estate in East London.",
-    "background": null,
-    "released": "2011-01-01",
-    "imdbRating": null
+    "poster": "https://image.tmdb.org/t/p/original/bt6OTuiq8ANbhIsOmZFztTw3Y2X.jpg",
+    "description": "Tower Sky, a luxurious building complex, has organised a lavish Christmas party for its VIP guests. However, things go awry when a fire breaks out and thousands of lives are endangered.",
+    "background": "https://image.tmdb.org/t/p/original/wvzVVJeKO9xsPlYiQmMQKCWagZk.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "5.0"
   },
   {
     "id": "gdrive:1LH077LtMMbXlIsuIJDp8l11aA0LoqCWt",
