@@ -4488,5 +4488,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1nPF7zDDIaHayPQowHQBhDRKyM5ly4UBa",
+    "type": "movie",
+    "name": "Hero Invitation",
+    "poster": "https://image.tmdb.org/t/p/w500/7Z6VwMkzD5cPqSf28MAeeifU9Tq.jpg",
+    "description": "",
+    "background": null,
+    "released": "2018-01-01",
+    "imdbRating": "5.0"
   }
 ]
