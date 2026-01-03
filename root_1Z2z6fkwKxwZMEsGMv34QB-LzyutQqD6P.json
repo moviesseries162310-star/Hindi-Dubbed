@@ -1818,5 +1818,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aRAmr3Eg7pyiIAdCSkD9OT8UvR4.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1gx7gCdbolMLbYe1kHCW8Qw2j290t9xtb",
+    "type": "movie",
+    "name": "The Cold Light of Day",
+    "poster": "https://image.tmdb.org/t/p/w500/lAOaxJhs8o2Sj2Hxm0wybRiuNUl.jpg",
+    "description": "A troubled detective befriends a single woman and her daughter with the intention of using them as bait for a serial killer.",
+    "background": "https://image.tmdb.org/t/p/w1280/8K9R2gONUh19FKdiDdrMhj6LKBA.jpg",
+    "released": "1996-01-01",
+    "imdbRating": "4.8"
   }
 ]
