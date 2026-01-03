@@ -342,9 +342,12 @@
   {
     "id": "gdrive:1LVhV3qNEfg-_aNjtpPWYALwBIVnxKLPU",
     "type": "movie",
-    "name": "Solomon Kane (2009) Open Matte 1080p WEB-DL  [Org YT Hindi DD 2.0 + English DDP 5.1] x264 -4kHdHub.mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJ03fKxXmY9WpejLlhS1ZClKOu9mVZHYM1tGciAwev5Y_o-OQUrSfhYdsqpOHlFSfc_YikXg_nc8g5Khk0IbQCtKIMwoPFevLRmCB87xty6E8=s220",
-    "description": "Size: 7.55 GB"
+    "name": "Solomon Kane",
+    "poster": "https://image.tmdb.org/t/p/original/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg",
+    "description": "A nomadic 16th century warrior, condemned to hell for his brutal past, seeks redemption by renouncing violence, but finds some things are worth burning for as he fights to free a young Puritan woman from the grip of evil.",
+    "background": "https://image.tmdb.org/t/p/original/5BqdQshlGWtn43YIFHIlYJzhFsR.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "6.8"
   },
   {
     "id": "gdrive:1aR71nhozg1Ff_z2h1lgYVL3aKZt9e8Wk",
