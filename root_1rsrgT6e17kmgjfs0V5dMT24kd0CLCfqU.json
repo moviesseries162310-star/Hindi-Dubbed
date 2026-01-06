@@ -366,5 +366,15 @@
     "background": "https://image.tmdb.org/t/p/original/hKy4J8jbiOBmSKs0NlcHP1hLWYl.jpg",
     "released": "2025-12-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:10ksU4lWSw_QXgst7QsTxjZLIfjTv_U94",
+    "type": "movie",
+    "name": "Predator: Badlands",
+    "poster": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+    "background": "https://image.tmdb.org/t/p/w1280/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.4"
   }
 ]
