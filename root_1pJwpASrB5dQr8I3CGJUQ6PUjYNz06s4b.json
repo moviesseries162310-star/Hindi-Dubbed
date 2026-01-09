@@ -14135,5 +14135,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yImmxRokQ48PD49ughXdpKTAsAU.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1z60_5Xan2pGCZdEluIxoI68P-Wl7cZyZ",
+    "type": "movie",
+    "name": "Mixtape",
+    "poster": "https://image.tmdb.org/t/p/w500/6E0rQZ96Mc6fqGvfW7sbsChdVlQ.jpg",
+    "description": "Mixtapes have an out-sized role in the emergence of hip hop around the world. Before radio play, the internet, and social media, there were mixtapes. No matter where you lived, you could pop a cassette into a tape deck, and be transported to a party halfway around the world. DJs were taste makers, trendsetters and creators of the sound that became the biggest musical genre on the planet. A meteoric rise for an art form not yet 50 years old. The importance of mixtapes goes well beyond the tapes themselves. Mixtapes were a form of currency. A signifier that you were In-The-Know and had your ear to the streets. A skeleton key to the underground. The culture was too strong to be stopped, and the artists were too talented to be ignored - so they turned the sub-culture into the mainstream, and made hip hop what it is today.",
+    "background": "https://image.tmdb.org/t/p/w1280/gxocYqZbYLzQT9PzODuXQV8jgJ5.jpg",
+    "released": "2022-01-01",
+    "imdbRating": null
   }
 ]
