@@ -12595,5 +12595,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1m-1BWLTX5lE9YyVBIFcAmNVKY7E1vb8L",
+    "type": "movie",
+    "name": "The Infernal Machine",
+    "poster": "https://image.tmdb.org/t/p/w500/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg",
+    "description": "Reclusive and controversial author Bruce Cogburn is drawn out of hiding by an obsessive fan, forcing the novelist to confront a past that he thought he could escape, and to account for events set in motion by his bestseller decades earlier. Cogburn's search for who is behind the manipulation and mental torment he encounters leads to an emotional roller-coaster ride full of fear and danger, where things are not always as clear as they seem to be, and where past deeds can have dire consequences.",
+    "background": "https://image.tmdb.org/t/p/w1280/68t9YraLbv4BHikPmjcw7SOPJi3.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.2"
   }
 ]
