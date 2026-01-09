@@ -12805,5 +12805,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/t3W767pq9rUdMXxVGzWVt2hs1Hs.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:12B5v57QuT0zEbRyxYujk1n-Pq2Isd18m",
+    "type": "movie",
+    "name": "Blonde",
+    "poster": "https://image.tmdb.org/t/p/w500/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+    "description": "From her volatile childhood as Norma Jeane, through her rise to stardom and romantic entanglements, this reimagined fictional portrait of Hollywood legend Marilyn Monroe blurs the lines of fact and fiction to explore the widening split between her public and private selves.",
+    "background": "https://image.tmdb.org/t/p/w1280/sdirxnHDdRmrM55mWfLCFeMdRSn.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "5.9"
   }
 ]
