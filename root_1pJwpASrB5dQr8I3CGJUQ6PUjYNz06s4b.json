@@ -12775,5 +12775,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9sCFmRA3nIDpAkiYH19oTFujF14.jpg",
     "released": "2022-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1wiB-45FDgqIWAF3WOZmMXlma04o9kr3M",
+    "type": "movie",
+    "name": "Lou",
+    "poster": "https://image.tmdb.org/t/p/w500/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
+    "description": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
+    "background": "https://image.tmdb.org/t/p/w1280/rgZ3hdzgMgYgzvBfwNEVW01bpK1.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.5"
   }
 ]
