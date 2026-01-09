@@ -11285,5 +11285,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jv9WTuEk7kW8JxgpjQ872CyiifP.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1Eh0BV3l9lWEtFIhjjF8y8ig72swP9vq0",
+    "type": "movie",
+    "name": "Kandahar",
+    "poster": "https://image.tmdb.org/t/p/w500/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+    "description": "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.",
+    "background": "https://image.tmdb.org/t/p/w1280/igXrblWrU1uaC09VKyquHHSebr.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.8"
   }
 ]
