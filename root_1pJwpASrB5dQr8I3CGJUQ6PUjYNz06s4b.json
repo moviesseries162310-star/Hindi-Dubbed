@@ -12045,5 +12045,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xFZ4vSVN6zG0F0ut97pjkrJmVwG.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1PCvejEGHOZtdmWDDbMFQQgT6BjrotQsx",
+    "type": "movie",
+    "name": "How I Became a Superhero",
+    "poster": "https://image.tmdb.org/t/p/w500/d0wn9YtEnmbucx8ZUsT918ctoiK.jpg",
+    "description": "Paris 2020. While superheroes have assimilated into the Parisian society, they discover a new drug that gives themselves personal superpowers to mere mortals. Lieutenants Moreau and Schaltzmann are investigating the case with the support of two ex-superheroes, Monte Carlo and Callista. They'll do whatever it takes to dismantle the traffic. But Moreau's past resurfaces, and the investigation becomes more complicated.",
+    "background": "https://image.tmdb.org/t/p/w1280/kDQdFs5XL6G8TuXvd0NnJfQ59GP.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.1"
   }
 ]
