@@ -11425,5 +11425,15 @@
     "background": null,
     "released": "2012-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1G-jWw1vZDgF3qYwDP6vhrl7EQ0pLzS2f",
+    "type": "movie",
+    "name": "Polite Society",
+    "poster": "https://image.tmdb.org/t/p/w500/Af1izSvHbGu6JiFTVzgfKxWQOfs.jpg",
+    "description": "Martial artist-in-training Ria Khan believes she must save her older sister Lena from her impending marriage. After enlisting the help of her friends, Ria attempts to pull off the most ambitious of all wedding heists in the name of independence and sisterhood.",
+    "background": "https://image.tmdb.org/t/p/w1280/aPvIX46VtxZDwu5bB2UcJ7xdpxs.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.3"
   }
 ]
