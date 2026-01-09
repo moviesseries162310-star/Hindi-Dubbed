@@ -11115,5 +11115,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/b5mzCMHZJJ0I1vlzyglAnk8j2uL.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive:11YpR87F5EIle2lGL6VBDhxqsxuArwnDO",
+    "type": "movie",
+    "name": "Knights of the Zodiac",
+    "poster": "https://image.tmdb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg",
+    "description": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess, sent to watch over humanity. Can he let his past go and embrace his destiny to become a Knight of the Zodiac?",
+    "background": "https://image.tmdb.org/t/p/w1280/fLEsa5SKTFgrdUGMHbsWomniak6.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.3"
   }
 ]
