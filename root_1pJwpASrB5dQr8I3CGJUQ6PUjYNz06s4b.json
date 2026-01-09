@@ -11235,5 +11235,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mKlBeUZvmHUbo4LObp7OvLVkL2G.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1lOmBK3dUZFQdsuIbhntxQ6WyStR8vEgf",
+    "type": "movie",
+    "name": "Painted Skin",
+    "poster": "https://image.tmdb.org/t/p/w500/5F7FS2brRyRp2lSLEsuvuRBSsrt.jpg",
+    "description": "Painted Skin is based on one of Pu Songling's classic short stories in Strange Stories from a Chinese Studio. Zhou Xun stars as Xiao Wei, a fox spirit that feasts on human hearts in order to maintain her lovely, youthful appearance. When General Wang Sheng (Chen Kun) 'rescues' her from a band of bandits and brings her home, trouble brews as the demon falls in love with the general.",
+    "background": "https://image.tmdb.org/t/p/w1280/gcY97HjmSgHnYVx6ruvQuFuB0Yc.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "6.0"
   }
 ]
