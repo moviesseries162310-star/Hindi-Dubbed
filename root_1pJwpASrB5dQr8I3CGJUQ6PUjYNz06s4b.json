@@ -12195,5 +12195,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jflTPIeK9JPkHwMEq8XF8sgUIIJ.jpg",
     "released": "1976-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1jHhZ9W2V8MhJ_9mQMooZDmZD68nNl33I",
+    "type": "movie",
+    "name": "Guillermo del Toro's Pinocchio",
+    "poster": "https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+    "description": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+    "background": "https://image.tmdb.org/t/p/w1280/2JeIqOdSM5nC1SQmuhUOfj3iB1U.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "8.0"
   }
 ]
