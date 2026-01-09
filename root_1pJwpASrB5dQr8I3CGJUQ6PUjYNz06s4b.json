@@ -11585,5 +11585,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qMUntRvpxOIraTdb2T2b99fZzdx.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1JuaShoY4IofZ8B59Ek2Y-Rd1sE8UZh62",
+    "type": "movie",
+    "name": "Triangle of Sadness",
+    "poster": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+    "description": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+    "background": "https://image.tmdb.org/t/p/w1280/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.0"
   }
 ]
