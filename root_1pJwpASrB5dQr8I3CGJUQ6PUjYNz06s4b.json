@@ -11825,5 +11825,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pUptUgPYwdNVSzMNRcUUs7WZ2Ap.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive:1JEwKYwleMB26wBSDZ7yWsmnugDnYYTlA",
+    "type": "movie",
+    "name": "Cairo Conspiracy",
+    "poster": "https://image.tmdb.org/t/p/w500/zDRAA4UJWgQnSFxhJuefnwO74v5.jpg",
+    "description": "A fisherman's son is offered the ultimate privilege to study at the Al-Azhar University in Cairo, the epicenter of power of Sunni Islam. Shortly after his arrival, the university’s highest ranking religious leader, the Grand Imam, dies and the young student becomes a pawn in a ruthless power struggle between Egypt's religious and political elite.",
+    "background": "https://image.tmdb.org/t/p/w1280/5pUJhaYpDdmOiyMvCh3G1R6G1wi.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.7"
   }
 ]
