@@ -11535,5 +11535,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1ApaQ9EptcRNuz6g-lpj22VOUJaUnzKAF",
+    "type": "movie",
+    "name": "The Pope's Exorcist",
+    "poster": "https://image.tmdb.org/t/p/w500/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg",
+    "description": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+    "background": "https://image.tmdb.org/t/p/w1280/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.9"
   }
 ]
