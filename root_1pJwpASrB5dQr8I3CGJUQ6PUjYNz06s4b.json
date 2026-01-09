@@ -10985,5 +10985,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/23wCZgZ3mDtATocmy1lXNLM7pyx.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1cXBRB84noviOtD8D3yH42oszxyWb7Bdq",
+    "type": "movie",
+    "name": "Bird Box Barcelona",
+    "poster": "https://image.tmdb.org/t/p/w500/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg",
+    "description": "After a mysterious force decimates the world’s population, Sebastian must navigate his own survival journey through the desolate streets of Barcelona. As he forms uneasy alliances with other survivors and they try to escape the city, an unexpected and even more sinister threat grows.",
+    "background": "https://image.tmdb.org/t/p/w1280/7tu0bQi8Tw2BrOB5vFyUjVtWma0.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "5.9"
   }
 ]
