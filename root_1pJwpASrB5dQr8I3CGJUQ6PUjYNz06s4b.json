@@ -12535,5 +12535,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/y4XBYLldCLuNLVeObTndfAaUrc3.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1qxsghs-75PBxZ58xeAHG4WHFtlPH0YbQ",
+    "type": "movie",
+    "name": "Freaky",
+    "poster": "https://image.tmdb.org/t/p/w500/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+    "description": "A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.",
+    "background": "https://image.tmdb.org/t/p/w1280/lVbPO7RjsMWoUwH1ISRbZNbg62s.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.6"
   }
 ]
