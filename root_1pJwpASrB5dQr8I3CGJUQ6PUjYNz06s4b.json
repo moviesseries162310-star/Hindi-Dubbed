@@ -12015,5 +12015,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1mQEGIKBWIMcy--xwhocPIPoawU9ZM-Ln",
+    "type": "movie",
+    "name": "Mother",
+    "poster": "https://image.tmdb.org/t/p/w500/AcDw2c0HlCMb8GHIDu11PC8x8Xv.jpg",
+    "description": "The film follows seven consecutive days at a pivotal moment in Mother Teresa’s life, the period where she decides to leave the Loreto Entally convent in Calcutta and launch her own order.",
+    "background": "https://image.tmdb.org/t/p/w1280/sNGMFyGnr11CyZ81Fa1q7PRyA5q.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.0"
   }
 ]
