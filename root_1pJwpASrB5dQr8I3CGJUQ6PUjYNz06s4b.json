@@ -13075,5 +13075,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/q8NOU6y1E5m72n7Rpi4Vcrmk3Vh.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:183QE3vTsejpd-LyPTtT5bEcU-iyJi135",
+    "type": "movie",
+    "name": "Firestarter",
+    "poster": "https://image.tmdb.org/t/p/w500/2ux5lqNuibd8eOkwwUhzfzAJBqD.jpg",
+    "description": "Charlene \"Charlie\" McGee has the amazing ability to start fires with just a glance. Can her psychic power and the love of her father save her from the threatening government agency which wants to destroy her?",
+    "background": "https://image.tmdb.org/t/p/w1280/tGvV6JZJxOh7yTRfcR5Hvo22aln.jpg",
+    "released": "1984-01-01",
+    "imdbRating": "6.3"
   }
 ]
