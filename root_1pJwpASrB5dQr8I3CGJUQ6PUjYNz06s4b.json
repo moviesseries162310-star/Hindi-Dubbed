@@ -11935,5 +11935,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ndrZYPNv0jKMCO9Ne98vfNxTzkW.jpg",
     "released": "2023-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1u-SdCVvm3Gn7t8dd68lQUVpWBloR2asw",
+    "type": "movie",
+    "name": "Accident Man: Hitman's Holiday",
+    "poster": "https://image.tmdb.org/t/p/w500/8XF5EIDUOZv1p9orukdyERvv2Qn.jpg",
+    "description": "The Accident Man is back, and this time he must best the top assassins in the world to protect the ungrateful son of a mafia boss, save the life of his only friend and rekindle his relationship with his maniacal father figure.",
+    "background": "https://image.tmdb.org/t/p/w1280/aVqKpp6ulwldIZSu160i9MTuocQ.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.7"
   }
 ]
