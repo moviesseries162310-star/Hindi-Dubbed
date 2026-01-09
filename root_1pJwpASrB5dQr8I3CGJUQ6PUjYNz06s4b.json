@@ -12385,5 +12385,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kP5k4gA6yJiQCeN5FNcGwRtGDuq.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1JEcWZQIhUdiVimgY82p-y_3Q83lCefgX",
+    "type": "movie",
+    "name": "Ip Man: The Awakening",
+    "poster": "https://image.tmdb.org/t/p/w500/A7vhdyGrpPMKXsuFBZzxmave94F.jpg",
+    "description": "When a young Master Ip stops a kidnapping, he ignites a turf war with a ruthless human-trafficking ring. In retaliation, the gang kidnaps one of Ip Man's close friends, forcing him to face the group's brutal boxing champion head-on.",
+    "background": "https://image.tmdb.org/t/p/w1280/Xfn9eDOaZKSz5W3PRoJI928I9c.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.8"
   }
 ]
