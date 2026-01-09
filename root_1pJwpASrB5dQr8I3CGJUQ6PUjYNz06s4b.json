@@ -11725,5 +11725,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jDkmlTz9xBmhsIIyORb68VqRlL2.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1xOdECZGqDz9kMABDaFnpMIQ66IZYQKA3",
+    "type": "movie",
+    "name": "Red Ghost",
+    "poster": "https://image.tmdb.org/t/p/w500/9OFF92pkqDgR5d5yp0JhdjXXwrc.jpg",
+    "description": "December 30, 1941. Vyazma ('Vyazemsky cauldron') is a small detachment of Soviet soldiers, by fatal coincidence, in an unequal battle with a special unit of the Wehrmacht. However, none of them think about giving up. Each of them was ready to sacrifice his life in order to protect his native land. None of these brave people was born a hero. The myth of the red ghost is a heroic deed without a soldier's Soviet soldier in the Great Patriotic War who instilled in the animals, deadly fear of German soldiers. In place of one of the dead hero was inserted another, and the born myth of the invincible Soviet soldier. The film 'Red Ghost' is about the hope that each soldier will have.",
+    "background": "https://image.tmdb.org/t/p/w1280/ekjm6VTCu64gk0UcGWnCMxuwbdk.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "5.9"
   }
 ]
