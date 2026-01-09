@@ -6908,5 +6908,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/botG6F4zvVD6WnDxQCWTU7U5cTD.jpg",
     "released": "2012-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1O-2hxbTnrMkYijfHG76DNkJt4RVAIF-k",
+    "type": "movie",
+    "name": "Intern Detective",
+    "poster": "https://image.tmdb.org/t/p/w500/hxySfPUHtsVO2gEdK27yZGMGtHw.jpg",
+    "description": "Oh Tae Shik, rather, Oh Kyeon Shik, who has been preparing to become a detective while working a different job, is a private establishment security guard who earns 880,000 won in Daechi Dong, Gangnam.  Thanks to his dream of becoming a detective, he is like a bulldozer who does not know how to give up. He always watched CSI and Detective Columbo's movies, analyzing their traits and building his dream of becoming a great detective. He manages to pass the written test, but he doesn't meet the hearing baseline and fails.  Then one day, coincidence happens and a fugitive on the run gets caught by Kyeon Shik when he throws a bottle of water he just bought at the runner. Kyeon Shik becomes a hero thanks to this.",
+    "background": "https://image.tmdb.org/t/p/w1280/kd49cIky9TGdWNQKnxJpWJSGdS6.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "5.6"
   }
 ]
