@@ -12735,5 +12735,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sSalNFInZxGi0bmmIKJoDz5jI6n.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1coTNWODTc180qs0cxhlp7idlAy76ehaf",
+    "type": "movie",
+    "name": "Torn Hearts",
+    "poster": "https://image.tmdb.org/t/p/w500/w8dSAuMHUgx0lYSB6wAAURStcGM.jpg",
+    "description": "A promising up-and-coming country duo seek out the secluded mansion of their idol Harper Dutch, a former country music star and Nashville royalty turned recluse. What starts out as a friendly visit devolves into a twisted series of horrors forcing the friends to confront the lengths they will go to in pursuit of their dreams.",
+    "background": "https://image.tmdb.org/t/p/w1280/fz8ftODxzRqVOWpVlh1wa1dktT5.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "5.8"
   }
 ]
