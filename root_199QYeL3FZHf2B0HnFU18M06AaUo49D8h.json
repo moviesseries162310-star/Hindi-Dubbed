@@ -8,5 +8,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sQqdvDQET5pr7PbVAtPsYYucZoR.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:18BnOBIViNyK6vJSKQCQHmcD39cUdQimt",
+    "type": "movie",
+    "name": "It Feeds",
+    "poster": "https://image.tmdb.org/t/p/w500/uC3lzzgOUgkubje7HR20qznAAGj.jpg",
+    "description": "A clairvoyant therapist confronts her own personal demons while trying to save a young girl who believes a malevolent entity is feeding on her.",
+    "background": "https://image.tmdb.org/t/p/w1280/4FQoxqPxMQjlqluCvBQMlfX5hy2.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.8"
   }
 ]
