@@ -12405,5 +12405,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/86z7qbBO126VqevRaMEiFw2aExS.jpg",
     "released": "2003-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:1YPuvIoeagSM228MYWH68BB3DeYp_JkmQ",
+    "type": "movie",
+    "name": "Hansan: Rising Dragon",
+    "poster": "https://image.tmdb.org/t/p/w500/vH76IrIrZLHmO0WOD4U7nxBHgkR.jpg",
+    "description": "In 1592, admiral Yi Sun-sin and his fleet face off against the might of the invading Japanese navy and its formidable warships. As the Korean forces fall into crisis, the admiral resorts to using his secret weapon, the dragon head ships known as geobukseon, in order to change the tide of this epic battle at sea.",
+    "background": "https://image.tmdb.org/t/p/w1280/gqqfN3XeWZcZZ2uQQEEFp3fHfSp.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.6"
   }
 ]
