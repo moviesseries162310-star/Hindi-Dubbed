@@ -13375,5 +13375,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ciKBP3tgzUxp7sHFNZxofBXUS8k.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1AmZ2gZA9P9E4vWFCj9P0hsktUrhSDgRQ",
+    "type": "movie",
+    "name": "A Journal for Jordan",
+    "poster": "https://image.tmdb.org/t/p/w500/t8xX6kYZj6y0XIxniJdFmaFkvp1.jpg",
+    "description": "Based on the true story of First Sergeant Charles Monroe King, a soldier deployed to Iraq begins to keep a journal of love and advice for his infant son. Back at home, senior New York Times editor Dana Canedy revisits the story of her unlikely, life-altering relationship with King and his enduring devotion to her and their child.",
+    "background": "https://image.tmdb.org/t/p/w1280/fMx8Srs8AsxMr2XXHbFRaH2uMI2.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.9"
   }
 ]
