@@ -13225,5 +13225,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kgw2stuVoi8TcByt7Zcl1SeineU.jpg",
     "released": "2021-01-01",
     "imdbRating": "4.9"
+  },
+  {
+    "id": "gdrive:1tTjnNE8V2QA6hzNJWX1hO9kpCusbdF6B",
+    "type": "movie",
+    "name": "Spell",
+    "poster": "https://image.tmdb.org/t/p/w500/9clw9UBQXmi3EFgjgIPGJSluQr7.jpg",
+    "description": "A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.",
+    "background": "https://image.tmdb.org/t/p/w1280/en7GPLCPwTRA0KxiR5BxjlSCqaG.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.5"
   }
 ]
