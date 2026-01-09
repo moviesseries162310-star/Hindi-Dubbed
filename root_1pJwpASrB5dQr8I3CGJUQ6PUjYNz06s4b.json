@@ -11435,5 +11435,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aPvIX46VtxZDwu5bB2UcJ7xdpxs.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1D3HKDfSEdXUjZijoPjnqmlAHK5F9kKuW",
+    "type": "movie",
+    "name": "Renfield",
+    "poster": "https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
+    "description": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+    "background": "https://image.tmdb.org/t/p/w1280/nBEFrdcVhwceGSFw83RksxY9Blg.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.5"
   }
 ]
