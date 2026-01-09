@@ -13755,5 +13755,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lRbDyjI7HEaXxflFQbYpqHRGFBJ.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1vgohO9kqocYD7k-V94j72kUvvP-8JPQD",
+    "type": "movie",
+    "name": "Choose or Die",
+    "poster": "https://image.tmdb.org/t/p/w500/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg",
+    "description": "In pursuit of an unclaimed $125,000 prize, a broke college dropout decides to play an obscure, 1980s survival computer game. But the game curses her, and she’s faced with dangerous choices and reality-warping challenges. After a series of unexpectedly terrifying moments, she realizes she’s no longer playing for the money but for her life.",
+    "background": "https://image.tmdb.org/t/p/w1280/isxWigGBWpXtc2xOxybiYWxHzWm.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "5.3"
   }
 ]
