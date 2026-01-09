@@ -12275,5 +12275,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eBa978z4R19VXT1JSB9g5kk8T4k.jpg",
     "released": "2023-01-01",
     "imdbRating": "3.8"
+  },
+  {
+    "id": "gdrive:1hbQ_KSsyy3RZMWoIgos7_IVez9RtMdw9",
+    "type": "movie",
+    "name": "A Man of Action",
+    "poster": "https://image.tmdb.org/t/p/w500/nhmy27eulK6JsZeKsVzVqrnhBUk.jpg",
+    "description": "Wealthy Bruce MacAllister, goaded by his fiancée, Helen, into proving that he is a man of action rather than a pampered youth tells his estate administrator, Eugene Preston, that he is going east for a meeting. Instead, Bruce dons a disguise and infiltrates the San Francisco underworld. Mistaken for master criminal \"The Chicago Kid\", he finds himself leading the gang in a robbery of his own fortune in diamonds. Discovering Eugene's intention to steal the jewels for himself he engineers it so the loot changes hands many times. Getting wise, Helen summons the police, the criminals are apprehended, and she sees Bruce in a new light.",
+    "background": null,
+    "released": "1923-01-01",
+    "imdbRating": null
   }
 ]
