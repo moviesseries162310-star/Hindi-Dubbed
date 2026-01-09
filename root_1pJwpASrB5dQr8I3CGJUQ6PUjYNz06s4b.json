@@ -11405,5 +11405,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rl7IY8VfuaBBPrnmx6HJ3YUDJHs.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1pBnOuJHMr1_HwBjiLdtRRJbKZNQ4WhDI",
+    "type": "movie",
+    "name": "Sniper: Rogue Mission",
+    "poster": "https://image.tmdb.org/t/p/w500/wUkXarFUJqLlq6Zl69OYUnneNi.jpg",
+    "description": "When a crooked federal agent is involved in a human sex trafficking ring, Sniper and CIA Rookie Brandon Beckett goes rogue, teaming up with his former allies Homeland Security Agent Zero and assassin Lady Death to uncover the corrupt agent and take down the criminal organization.",
+    "background": "https://image.tmdb.org/t/p/w1280/vz3bzzB2E3l3IkZoJYCIuMo8Bav.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.2"
   }
 ]
