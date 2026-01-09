@@ -18,5 +18,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4FQoxqPxMQjlqluCvBQMlfX5hy2.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1CV2J7QuU31dpBeViVGOaFC5j7kvgoSP2",
+    "type": "movie",
+    "name": "The Thing with Feathers",
+    "poster": "https://image.tmdb.org/t/p/w500/j3kM0tMW7EQaOrit0JW9NvoPPrp.jpg",
+    "description": "After a tragic loss, a grieving father tries to raise his young sons whilst dealing with an unlikely, unpredictable, and uninvited houseguest.",
+    "background": "https://image.tmdb.org/t/p/w1280/uIXIQUDXUxvhjfKvpUnXTiVfvuB.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.0"
   }
 ]
