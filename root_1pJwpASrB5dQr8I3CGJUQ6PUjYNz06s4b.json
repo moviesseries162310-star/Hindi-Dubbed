@@ -11095,5 +11095,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uu4L7SR5xpGyZZPIUlxKRTW1CUi.jpg",
     "released": "2020-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1G_p_PZie7Za6PQ3Zczndyx5MDMC6ycAz",
+    "type": "movie",
+    "name": "Assassin Club",
+    "poster": "https://image.tmdb.org/t/p/w500/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg",
+    "description": "In this world of contract killers, Morgan Gaines is the best of the best. When Morgan is hired to kill six people around the world, he soon discovers all the targets are also assassins unknowingly hired to kill each other.",
+    "background": "https://image.tmdb.org/t/p/w1280/cYyUinLXRbQwE4PAt2mQLTGBqti.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "5.9"
   }
 ]
