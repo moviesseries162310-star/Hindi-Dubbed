@@ -14025,5 +14025,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2Jp2RIwJ3Dt7vamkTt7llVJ7uY.jpg",
     "released": "2022-01-01",
     "imdbRating": "4.8"
+  },
+  {
+    "id": "gdrive:1lC63nT-shLcvep9t9M68394EdTf4H4wz",
+    "type": "movie",
+    "name": "The Royal Treatment",
+    "poster": "https://image.tmdb.org/t/p/w500/mYAv0YUoXJzLxIdEirOken8Quwf.jpg",
+    "description": "Isabella runs her own salon and isn’t afraid to speak her mind, while Prince Thomas runs his own country and is about to marry for duty rather than love. When Izzy and her fellow stylists get the opportunity of a lifetime to do the hair for the royal wedding, she and Prince Thomas learn that taking control of their own destiny requires following their hearts.",
+    "background": "https://image.tmdb.org/t/p/w1280/on1p1AdcfxmlyHhVXoycWt75D8H.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.7"
   }
 ]
