@@ -11865,5 +11865,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gNOyIDGW8YY6AYbz6nMvrVSHSXs.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:187inU0jyMErYjGhpX-GP7P1J0jMG-3vv",
+    "type": "movie",
+    "name": "All Quiet on the Western Front",
+    "poster": "https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+    "description": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+    "background": "https://image.tmdb.org/t/p/w1280/zbOlpFM306PHE7EP1OELCH5qSmS.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.7"
   }
 ]
