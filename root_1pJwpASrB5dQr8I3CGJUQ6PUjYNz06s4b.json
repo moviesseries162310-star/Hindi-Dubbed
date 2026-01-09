@@ -12435,5 +12435,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/iVtpnbPE91vmi3LmcOXycEblwPA.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1SYMg1dgdaYZGYso1BIYY49oQIR8weokG",
+    "type": "movie",
+    "name": "Brian and Charles",
+    "poster": "https://image.tmdb.org/t/p/w500/pzP3N9qRo3S91QjfBFWNI0ph0AY.jpg",
+    "description": "An endearing outlier, Brian lives alone in a Welsh valley, inventing oddball contraptions that seldom work. After finding a discarded mannequin head, Brian gets an idea. Three days, a washing machine, and sundry spare parts later, he’s invented Charles, an artificially intelligent robot who learns English from a dictionary and proves a charming, cheeky companion. Before long, however, Charles also develops autonomy. Intrigued by the wider world — or whatever lies beyond the cottage where Brian has hidden him away — Charles craves adventure.",
+    "background": "https://image.tmdb.org/t/p/w1280/sT0c22syDUXXz85Gg0E7dzZzCaA.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.3"
   }
 ]
