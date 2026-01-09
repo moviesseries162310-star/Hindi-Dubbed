@@ -12105,5 +12105,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aOeshAxAhiDVIiHsXVFmF6bgclh.jpg",
     "released": "2020-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1JU2V_sEhLqdPqQmCvgWRx2TZixiEkc3N",
+    "type": "movie",
+    "name": "A Babysitter's Guide to Monster Hunting",
+    "poster": "https://image.tmdb.org/t/p/w500/bkld8Me0WiLWipLORRNfF1yIPHu.jpg",
+    "description": "Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she's watching on Halloween.",
+    "background": "https://image.tmdb.org/t/p/w1280/ezLKohe4HKsHQbwQwhv0ARo83NC.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.2"
   }
 ]
