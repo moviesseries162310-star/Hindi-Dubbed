@@ -11375,5 +11375,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fUUEyB2WI8BqHgBIL0c17DNKmYL.jpg",
     "released": "2023-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1rqxGOldsbsc1vDuzRpLBv8bOG8k05wjL",
+    "type": "movie",
+    "name": "The Babysitter: Killer Queen",
+    "poster": "https://image.tmdb.org/t/p/w500/imy1OoT1xddt2kqw6hhc4v01e8i.jpg",
+    "description": "Two years after defeating a satanic cult led by his babysitter Bee, Cole's trying to forget his past and focus on surviving high school. But when old enemies unexpectedly return, Cole will once again have to outsmart the forces of evil.",
+    "background": "https://image.tmdb.org/t/p/w1280/qDV3sQRhqyXflUfH6gOTGkPXTaV.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.3"
   }
 ]
