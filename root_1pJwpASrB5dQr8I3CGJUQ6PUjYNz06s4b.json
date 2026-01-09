@@ -11045,5 +11045,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3FbzwKUJyEIfYjpObF3RFmjCIcc.jpg",
     "released": "2022-01-01",
     "imdbRating": "4.9"
+  },
+  {
+    "id": "gdrive:1f8v9XWqV6MKWjv4viI80VxTfx1CPWaVh",
+    "type": "movie",
+    "name": "Medusa",
+    "poster": "https://image.tmdb.org/t/p/w500/fs8RXnnJkYKo53R8A6eakzcTTHj.jpg",
+    "description": "After being bitten by a lethal snake, a young woman experiences changes in her senses and appearance, as she sheds her old self and slowly turns into a deadly weapon.",
+    "background": "https://image.tmdb.org/t/p/w1280/3h1AXkYA1yazZaFPVA12FtmtYye.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.2"
   }
 ]
