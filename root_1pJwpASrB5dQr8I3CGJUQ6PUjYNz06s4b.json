@@ -12115,5 +12115,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ezLKohe4HKsHQbwQwhv0ARo83NC.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1NzamffRiEzgkdsJmyGq0jUr1_8Ndr-jl",
+    "type": "movie",
+    "name": "The Curse of Turandot",
+    "poster": "https://image.tmdb.org/t/p/w500/a6sZFTvDNuJWGNjfmdWWZlgzb7U.jpg",
+    "description": "The plot follows Princess Turandot who is cursed by a mysterious power emanating from three Mazovian bracelets that were given to her as birthday gifts. These bracelets’ life-draining effects cause the princess to becomes cruel, and gradually she loses her humanity.",
+    "background": "https://image.tmdb.org/t/p/w1280/ueFfmmfbEycwNkdXynTviNIEUeo.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "5.0"
   }
 ]
