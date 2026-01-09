@@ -11645,5 +11645,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aeksAhU6dZl0Fclm3dBRt6cKBmD.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1KuMBCPOfUPclEgCbq3S0RnfiFnkCPJDo",
+    "type": "movie",
+    "name": "Cocaine Bear",
+    "poster": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+    "description": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+    "background": "https://image.tmdb.org/t/p/w1280/a2tys4sD7xzVaogPntGsT1ypVoT.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.0"
   }
 ]
