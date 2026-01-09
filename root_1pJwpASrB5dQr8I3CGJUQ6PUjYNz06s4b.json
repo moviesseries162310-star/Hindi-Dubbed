@@ -11655,5 +11655,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/a2tys4sD7xzVaogPntGsT1ypVoT.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1Y0RDI7_nW1R6CPcg3rWhTd_czIYddUT8",
+    "type": "movie",
+    "name": "Clifford the Big Red Dog",
+    "poster": "https://image.tmdb.org/t/p/w500/30ULVKdjBcQTsj2aOSThXXZNSxF.jpg",
+    "description": "As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.",
+    "background": "https://image.tmdb.org/t/p/w1280/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.2"
   }
 ]
