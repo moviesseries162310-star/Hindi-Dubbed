@@ -10965,5 +10965,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6inQZW13AWeSPPPSrKqVJZNfjiI.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1qkHqO934axO8SedO2G6Bvhyc-XRAZv7R",
+    "type": "movie",
+    "name": "Mr. Car and the Knights Templar",
+    "poster": "https://image.tmdb.org/t/p/w500/xEAXVe0BzW4K9Ky6eTo4CJwzJ8P.jpg",
+    "description": "A well-known art historian, treasure hunter and owner of an unusual car stumbles upon a Templar treasure, which is the key to a great power that can upset the balance of good and evil in the world. Supported by friendly scouts, Mr. Car starts a big race against time and a hostile organization, the stake of which is the heritage of knightly orders.",
+    "background": "https://image.tmdb.org/t/p/w1280/msBuBppEFq3QvaRsJYz0r595gC5.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "5.8"
   }
 ]
