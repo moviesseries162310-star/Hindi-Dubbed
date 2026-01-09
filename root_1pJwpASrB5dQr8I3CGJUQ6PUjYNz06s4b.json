@@ -12795,5 +12795,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1OUe2UsIq33qzvuzPH5Iku-kFN8S234Rs",
+    "type": "movie",
+    "name": "Beast",
+    "poster": "https://image.tmdb.org/t/p/w500/kZdncyp1IKhEqwv5zdmUpK5Dc7S.jpg",
+    "description": "A troubled woman living in an isolated community finds herself pulled between the control of her oppressive family and the allure of a secretive outsider suspected of a series of brutal murders.",
+    "background": "https://image.tmdb.org/t/p/w1280/t3W767pq9rUdMXxVGzWVt2hs1Hs.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.5"
   }
 ]
