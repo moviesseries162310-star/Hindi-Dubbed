@@ -10845,5 +10845,15 @@
     "background": null,
     "released": "2001-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1o-VjXFkSzJfBD20QlXJAtQ03HZViTS3k",
+    "type": "movie",
+    "name": "A Nice Girl Like You",
+    "poster": "https://image.tmdb.org/t/p/w500/qVFfofTQCaoru8oiaOGW0G4YSwQ.jpg",
+    "description": "Lucy Neal is thrown for a loop when she is accused of being too inhibited by her ex-boyfriend. In an effort to prove him wrong, Lucy creates a rather wild to-do list that sends her on a whirlwind and surprising journey of self-discovery, friendship, and new love.",
+    "background": "https://image.tmdb.org/t/p/w1280/2HiL1H8VjqYwcTjxC2WIAGJHFx0.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "5.9"
   }
 ]
