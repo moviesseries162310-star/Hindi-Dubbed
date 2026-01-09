@@ -12885,5 +12885,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yWRvAfZmbzk61REYod4WQACDhRj.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1CXbT18qwG_WWyW5BbpP8jVsUT71Y4GfL",
+    "type": "movie",
+    "name": "Skandal! Bringing Down Wirecard",
+    "poster": "https://image.tmdb.org/t/p/w500/ArXXUMwKZURyXMNyy0Q86cRLaIt.jpg",
+    "description": "Upstart payment firm Wirecard wowed the financial industry with its runaway success — until a tenacious team of journalists exposed massive fraud.",
+    "background": "https://image.tmdb.org/t/p/w1280/vcpgqWoIxtmCGpUD2tOtAXbKPT6.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.4"
   }
 ]
