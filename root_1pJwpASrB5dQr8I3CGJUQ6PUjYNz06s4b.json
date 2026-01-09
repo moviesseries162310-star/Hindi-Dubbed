@@ -11165,5 +11165,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8gSU1tLLdE5TWbcg9YDnR2lD0sO.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1fR2N7Np5CXkX8HQtaAs4gIRQigw8--uD",
+    "type": "movie",
+    "name": "Shanghai Night",
+    "poster": "https://image.tmdb.org/t/p/w500/1ahXRC83lmx7UEwzad23fGBt72s.jpg",
+    "description": "Two lonely customers meet in an empty Shanghai bar late at night. They seem attracted to one another yet unable to really connect for long.",
+    "background": null,
+    "released": "2017-01-01",
+    "imdbRating": null
   }
 ]
