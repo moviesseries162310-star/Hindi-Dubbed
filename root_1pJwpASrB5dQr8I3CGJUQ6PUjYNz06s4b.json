@@ -12585,5 +12585,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/x2U0R60Z7hmJxZixzsGZfjFJbve.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1MmJOb2VcqZ03_3XsudUdxJnkCAXBd8Ml",
+    "type": "movie",
+    "name": "The School for Good and Evil",
+    "poster": "https://image.tmdb.org/t/p/w500/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",
+    "description": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.",
+    "background": "https://image.tmdb.org/t/p/w1280/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.0"
   }
 ]
