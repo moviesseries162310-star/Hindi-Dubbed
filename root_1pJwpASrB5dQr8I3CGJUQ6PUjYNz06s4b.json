@@ -14185,5 +14185,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xrgHOIRsTvEU5UF4tJ5QvVk64FF.jpg",
     "released": "2023-01-01",
     "imdbRating": "2.0"
+  },
+  {
+    "id": "gdrive:1MIWHHJfy6BAfXdj-arxycvbunjq2tuEE",
+    "type": "movie",
+    "name": "A Castle for Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg",
+    "description": "To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle -- and faces off with the grumpy duke who owns it.",
+    "background": "https://image.tmdb.org/t/p/w1280/7O6yp5DoR6uQlJVqfxkI4Vt8Wan.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.0"
   }
 ]
