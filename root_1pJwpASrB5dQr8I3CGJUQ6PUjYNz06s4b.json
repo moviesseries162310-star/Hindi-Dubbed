@@ -11795,5 +11795,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rPEKFkSwxHPQq1oxTPSCJryB1sK.jpg",
     "released": "1971-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1G9GODJHlmFZRORnBVk1qg44MK-Sp052E",
+    "type": "movie",
+    "name": "She Said",
+    "poster": "https://image.tmdb.org/t/p/w500/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+    "description": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation — a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+    "background": "https://image.tmdb.org/t/p/w1280/5tb7RjF0OAAaiGDUXsuedvhoGqV.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.2"
   }
 ]
