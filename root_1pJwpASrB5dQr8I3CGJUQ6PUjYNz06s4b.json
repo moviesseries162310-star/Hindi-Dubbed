@@ -14125,5 +14125,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg",
     "released": "2021-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1ocNPqFFEwxs45j29kkr1EoC4d7-JIqkV",
+    "type": "movie",
+    "name": "Finding ʻOhana",
+    "poster": "https://image.tmdb.org/t/p/w500/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg",
+    "description": "Two Brooklyn siblings' summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.",
+    "background": "https://image.tmdb.org/t/p/w1280/yImmxRokQ48PD49ughXdpKTAsAU.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.2"
   }
 ]
