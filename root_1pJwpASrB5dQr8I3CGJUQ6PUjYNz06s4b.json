@@ -11415,5 +11415,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vz3bzzB2E3l3IkZoJYCIuMo8Bav.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1uhRJH5jLNxCkbbujER6DTX-yDtAvre3A",
+    "type": "movie",
+    "name": "Studio",
+    "poster": "https://image.tmdb.org/t/p/w500/wM6NJ4WQJKdTAI9L7yOuRNsxOAT.jpg",
+    "description": "An elderly man enters a photo studio and asks the photographer for a curious service. The reaction of the latter will determine their perception of each other...",
+    "background": null,
+    "released": "2012-01-01",
+    "imdbRating": null
   }
 ]
