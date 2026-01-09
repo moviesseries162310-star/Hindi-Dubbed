@@ -12945,5 +12945,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/clle3wAoXREGqwmG2IvNk27OVf2.jpg",
     "released": "1935-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1qHlBkWBqEa9JX0ULZMhdksL5rMYqgEFN",
+    "type": "movie",
+    "name": "Ne Zha",
+    "poster": "https://image.tmdb.org/t/p/w500/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+    "description": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
+    "background": "https://image.tmdb.org/t/p/w1280/k1pJslKr4aDayw9kWwWnlC3MIP3.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.9"
   }
 ]
