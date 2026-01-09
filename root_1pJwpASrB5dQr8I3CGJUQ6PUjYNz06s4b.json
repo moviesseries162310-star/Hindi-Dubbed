@@ -10975,5 +10975,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/msBuBppEFq3QvaRsJYz0r595gC5.jpg",
     "released": "2023-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1WeXzpM83j0TfmmB3cWZsRvqUbfS6FWoo",
+    "type": "movie",
+    "name": "Ammonite",
+    "poster": "https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg",
+    "description": "In 1840s England, palaeontologist Mary Anning and a young woman sent by her husband to convalesce by the sea develop an intense relationship. Despite the chasm between their social spheres and personalities, Mary and Charlotte discover they can each offer what the other has been searching for: the realisation that they are not alone. It is the beginning of a passionate and all-consuming love affair that will defy all social bounds and alter the course of both lives irrevocably.",
+    "background": "https://image.tmdb.org/t/p/w1280/23wCZgZ3mDtATocmy1lXNLM7pyx.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.9"
   }
 ]
