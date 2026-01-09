@@ -11975,5 +11975,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5Zv5KmgZzdIvXz2KC3n0MyecSNL.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:12JGld35KX_PANv-T5FBmwBNI31Kwr3tR",
+    "type": "movie",
+    "name": "Chupa",
+    "poster": "https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",
+    "description": "While visiting family in Mexico, a lonely boy befriends a mythical creature hiding on his grandfather's ranch and embarks on the adventure of a lifetime.",
+    "background": "https://image.tmdb.org/t/p/w1280/aityu1Gma509jInlspHstEt8Jg0.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.3"
   }
 ]
