@@ -13005,5 +13005,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rHzoz94bRfyfNLjiIB26Wt5KDHE.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1IfnxEhtSLhgJ576smEzzXALVVVny3TsI",
+    "type": "movie",
+    "name": "DC League of Super-Pets",
+    "poster": "https://image.tmdb.org/t/p/w500/qpPMewlugFaejXjz4YNDnpTniFX.jpg",
+    "description": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.",
+    "background": "https://image.tmdb.org/t/p/w1280/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.2"
   }
 ]
