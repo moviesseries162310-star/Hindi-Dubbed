@@ -11265,5 +11265,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive:1wTDen9ja8B5bumMsGrjTczbAa5lWIF8k",
+    "type": "movie",
+    "name": "Asterix & Obelix: The Middle Kingdom",
+    "poster": "https://image.tmdb.org/t/p/w500/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+    "description": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+    "background": "https://image.tmdb.org/t/p/w1280/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "4.8"
   }
 ]
