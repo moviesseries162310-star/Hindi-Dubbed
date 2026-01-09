@@ -13765,5 +13765,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/isxWigGBWpXtc2xOxybiYWxHzWm.jpg",
     "released": "2022-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:139rAzKcne4bESIKtgZqRxBDHkLGoZARy",
+    "type": "movie",
+    "name": "Metal Lords",
+    "poster": "https://image.tmdb.org/t/p/w500/r97txZRmBb75SGsIAWqmplWJnO3.jpg",
+    "description": "For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themselves to metal. Win Battle of the Bands. And be worshipped like gods.",
+    "background": "https://image.tmdb.org/t/p/w1280/nj1sc2adxEk7fseElV8RIuCaoZD.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.9"
   }
 ]
