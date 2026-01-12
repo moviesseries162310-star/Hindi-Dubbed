@@ -6928,5 +6928,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/j3w3lT3ABvJsVE3byNOMCYmnGMB.jpg",
     "released": "2019-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1cTcj0TUaMdp_t-GkfuEr-4E_B8AwmAU7",
+    "type": "movie",
+    "name": "Admission",
+    "poster": "https://image.tmdb.org/t/p/w500/f3HoCikJxypRtLJptBwvs7L7etE.jpg",
+    "description": "Straitlaced Princeton University admissions officer Portia Nathan is caught off-guard when she makes a recruiting visit to an alternative high school overseen by her former classmate, the freewheeling John Pressman. Pressman has surmised that Jeremiah, his gifted yet very unconventional student, might well be the son that Portia secretly gave up for adoption many years ago.",
+    "background": "https://image.tmdb.org/t/p/w1280/xcPdPDl8ihjIDQW6XxnQvABEvyp.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "5.6"
   }
 ]
