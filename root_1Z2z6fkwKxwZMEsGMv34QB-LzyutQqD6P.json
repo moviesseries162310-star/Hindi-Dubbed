@@ -6918,5 +6918,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kd49cIky9TGdWNQKnxJpWJSGdS6.jpg",
     "released": "2019-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1qt_2V0QeE0O8GKKYoM2QNqXynDcQQB-d",
+    "type": "movie",
+    "name": "Brightburn",
+    "poster": "https://image.tmdb.org/t/p/w500/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg",
+    "description": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+    "background": "https://image.tmdb.org/t/p/w1280/j3w3lT3ABvJsVE3byNOMCYmnGMB.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.1"
   }
 ]
