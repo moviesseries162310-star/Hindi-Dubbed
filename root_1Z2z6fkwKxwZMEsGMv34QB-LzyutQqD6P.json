@@ -6938,5 +6938,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xcPdPDl8ihjIDQW6XxnQvABEvyp.jpg",
     "released": "2013-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1shOQjBqkJ8CnkVLFKImgkj07XxMjF67U",
+    "type": "movie",
+    "name": "The Housemaid",
+    "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+    "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+    "background": "https://image.tmdb.org/t/p/w1280/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.2"
   }
 ]
