@@ -18,5 +18,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5eqnrbV7V76weYdYyJjy27vSZLp.jpg",
     "released": "2026-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:11hFUeUa4nIrqCE2JdyuRDYhMvVVYoer9",
+    "type": "movie",
+    "name": "The Rip",
+    "poster": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+    "description": "After a team of Miami cops discovers millions in cash inside a derelict stash house, trust frays as everything — and everyone — is called into question.",
+    "background": "https://image.tmdb.org/t/p/w1280/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "7.2"
   }
 ]
