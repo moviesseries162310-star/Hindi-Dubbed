@@ -6988,5 +6988,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xLRiuFeZkV9vwGMdA5AUzq1PeUn.jpg",
     "released": "2016-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive:1sNElMJIjNgsvDww-0VpraqXD1D5WjJjq",
+    "type": "movie",
+    "name": "The Interview",
+    "poster": "https://image.tmdb.org/t/p/w500/tIDC4xT65l7a8qbgg8GvwD5g8c5.jpg",
+    "description": "Dave Skylark and his producer Aaron Rapaport run the celebrity tabloid show \"Skylark Tonight\". When they land an interview with a surprise fan, North Korean dictator Kim Jong-un, they are recruited by the CIA to turn their trip to Pyongyang into an assassination mission.",
+    "background": "https://image.tmdb.org/t/p/w1280/rS8CR6cgTjNiBNQOUkITdeWVZ1k.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "6.2"
   }
 ]
