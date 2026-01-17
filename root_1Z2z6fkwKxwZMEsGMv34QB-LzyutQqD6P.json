@@ -6978,5 +6978,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/o54tlFA5j7iYTItIY5UNx6WNxAD.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:1bWPDgnFDIXnuNJ6ixLq2Zj_Cf-t1eMOv",
+    "type": "movie",
+    "name": "The Nice Guys",
+    "poster": "https://image.tmdb.org/t/p/w500/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+    "description": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+    "background": "https://image.tmdb.org/t/p/w1280/xLRiuFeZkV9vwGMdA5AUzq1PeUn.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "7.1"
   }
 ]
