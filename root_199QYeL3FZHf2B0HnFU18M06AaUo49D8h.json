@@ -48,5 +48,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/r6ywEjkxI7020Qmf3PF499Arku5.jpg",
     "released": "2012-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1odonjUGJC7GGMspdwdCKJYf5UNgOKTGI",
+    "type": "movie",
+    "name": "The Wild Blade of Strangers",
+    "poster": "https://image.tmdb.org/t/p/w500/9DZOU5qibB8WeXtzQ00Nl6tiqfw.jpg",
+    "description": "During the chaotic period towards the end of the Tang Dynasty, the Prince of Liang usurped power and secretly eliminated the heir to the throne. Tian Anye, a humble charcoal seller, unintentionally gets entangled in this conspiracy. In a series of intense battles where allies and enemies become blurred, the secrets hidden within Tian Anye and the truth behind the sacrifice of the people in Liang City are unveiled. In the end, Tian Anye fights against the imperial soldiers, saving a mother and child and escaping from the city of Chang'an.",
+    "background": "https://image.tmdb.org/t/p/w1280/iAZxbaTMFJRido8cgVbl1JvSEEp.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.0"
   }
 ]
