@@ -396,5 +396,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4HWuNkBn0AUpyCtpAxi7weDbqir.jpg",
     "released": "2026-01-01",
     "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive:1XQ5wewhHEIsGYYZMl6x3SuLVDRCOqJoM",
+    "type": "movie",
+    "name": "The SpongeBob Movie: Search for SquarePants",
+    "poster": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+    "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+    "background": "https://image.tmdb.org/t/p/w1280/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.4"
   }
 ]
