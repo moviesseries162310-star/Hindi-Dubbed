@@ -406,5 +406,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1F1aqP-6QvMWdN7zt9eSr7D7EcW6B5QSE",
+    "type": "movie",
+    "name": "Cosmic Princess Kaguya!",
+    "poster": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+    "description": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
+    "background": "https://image.tmdb.org/t/p/w1280/lqQfj9sOZ9fT3waHvUUtmbnJjwT.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "9.0"
   }
 ]
