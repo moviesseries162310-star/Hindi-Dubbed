@@ -68,5 +68,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8XXIyghvMJQRopPbuz1HRT5ydTp.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1f7_DaJL2GJ23AeOTJOm47iUTvvxevNlQ",
+    "type": "movie",
+    "name": "From the Ashes: The Pit",
+    "poster": "https://image.tmdb.org/t/p/w500/9jpq7YSNIwY4Wua15QM0lmGp3zn.jpg",
+    "description": "Trapped in an underground pit during a storm, three students from an all-girls school must confront their personal conflicts as they fight to survive.",
+    "background": "https://image.tmdb.org/t/p/w1280/uiSaYXR0jLLWma0EPA1tcBhX6wT.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "3.9"
   }
 ]
