@@ -78,5 +78,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uiSaYXR0jLLWma0EPA1tcBhX6wT.jpg",
     "released": "2026-01-01",
     "imdbRating": "3.9"
+  },
+  {
+    "id": "gdrive:1xsbXBSZpwWZVbi5CgZZPiUvKCqy2q7bY",
+    "type": "movie",
+    "name": "Afterburn",
+    "poster": "https://image.tmdb.org/t/p/w500/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",
+    "description": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+    "background": "https://image.tmdb.org/t/p/w1280/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.5"
   }
 ]
