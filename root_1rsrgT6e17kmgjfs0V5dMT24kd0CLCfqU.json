@@ -456,5 +456,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yo41R39airbREp0PYfG30Ofxtgt.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1xAvZxJr689rtCbGdQ1x_sf9VC4yJDsAB",
+    "type": "movie",
+    "name": "Zootopia 2",
+    "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "background": "https://image.tmdb.org/t/p/w1280/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.6"
   }
 ]
