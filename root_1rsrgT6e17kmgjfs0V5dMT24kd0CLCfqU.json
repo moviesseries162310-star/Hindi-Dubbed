@@ -466,5 +466,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:1rUcOjnDN_N6J56qlgMEuPacjH33egFGl",
+    "type": "movie",
+    "name": "Greenland 2: Migration",
+    "poster": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+    "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+    "background": "https://image.tmdb.org/t/p/w1280/gtKWn9l32PolrFwCuZQsujEAEoc.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "6.4"
   }
 ]
