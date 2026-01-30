@@ -88,5 +88,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1gtn-md5qsWGcio0emr3evJjqT1cM0Piv",
+    "type": "movie",
+    "name": "Evil of the Rat",
+    "poster": "https://image.tmdb.org/t/p/w500/mt6ymKwwMbSxcpDFnkgzPpqDXzn.jpg",
+    "description": "Five Chinese young people go for an outing, encountering a little girl blocking the road for help. To save the girl, they got into a chemical factory and got involved in a catastrophe of mutant rats attacking human beings.",
+    "background": "https://image.tmdb.org/t/p/w1280/yv6wphHJWuBSNdAdOg89OLwigaa.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.0"
   }
 ]
