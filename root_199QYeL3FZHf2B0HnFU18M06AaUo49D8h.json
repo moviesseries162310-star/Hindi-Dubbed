@@ -98,5 +98,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yv6wphHJWuBSNdAdOg89OLwigaa.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1f26adXWzdoKUTrq0EOTxX8t7-2DJX2OT",
+    "type": "movie",
+    "name": "Lost in the Mountain",
+    "poster": "https://image.tmdb.org/t/p/w500/zI7QyFMmUbfxXND07zrXHnnumzS.jpg",
+    "description": "The film is director Gao Zipeng’s first fiction film which takes three years to complete. It premieres on March 27, 2001 in UCCA and stars the poet A Jian, Xiao Zhao and the writer Gou Zi. The film is based on a true crime of disappearance. It creates an atmosphere of what Ma Zhiyuan, a celebrated poet and playwright of Yuan Dynasty, portrays in his famous poem “Autumn Thoughts”: Over old trees wreathed with rotten vines fly evening crows/ Under a small bridge near a cottage a stream flows/ On ancient road in the west wind a lean horse goes/ Westward declines the sun/ Far, far from home is the heartbroken one.",
+    "background": null,
+    "released": "2011-01-01",
+    "imdbRating": "4.0"
   }
 ]
