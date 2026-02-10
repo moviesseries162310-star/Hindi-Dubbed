@@ -58,5 +58,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6zaQ1ffMOXjBdeg0gKd6OxUvT4C.jpg",
     "released": "2026-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1wnLS4f3H39YLFoP38CnIYzoaaLDZ8Q3c",
+    "type": "movie",
+    "name": "Primate",
+    "poster": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+    "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+    "background": "https://image.tmdb.org/t/p/w1280/eFUtmW3XqK4MVwPotko0pm6oMRK.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "6.3"
   }
 ]
