@@ -7038,5 +7038,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/k5mNW8qutywD3GhAuaq33qcQR2y.jpg",
     "released": "2010-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1hnPzz6q0OPlP4-HUCzPgBKn1gw0x0v6s",
+    "type": "movie",
+    "name": "The Final Girls",
+    "poster": "https://image.tmdb.org/t/p/w500/gQYKSRVo5iZACFOY6x50RblI6rx.jpg",
+    "description": "A young woman grieving the loss of her mother, a famous scream queen from the 1980s, finds herself pulled into the world of her mom's most famous movie. Reunited, the women must fight off the film's maniacal killer.",
+    "background": "https://image.tmdb.org/t/p/w1280/vLRu9nLJ14HtVq9PrYCTr0Emb39.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "6.4"
   }
 ]
