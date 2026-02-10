@@ -526,5 +526,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/77aCeoWOA5toCWk67lTAzrfW92Y.jpg",
     "released": "2026-01-01",
     "imdbRating": "3.5"
+  },
+  {
+    "id": "gdrive:1Efa8UWH01g60BllKlx9kDysjwhmW8I1r",
+    "type": "movie",
+    "name": "New Jersey Devil",
+    "poster": "https://image.tmdb.org/t/p/w500/kFiJEG6JXJhN3o2AZh001ifhrZ1.jpg",
+    "description": "16-year-old Sophie is in the process of being adopted when a sinister force out of New Jersey folklore begins to torment her new family.",
+    "background": null,
+    "released": "2026-01-01",
+    "imdbRating": "2.0"
   }
 ]
