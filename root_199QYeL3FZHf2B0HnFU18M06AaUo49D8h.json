@@ -158,5 +158,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/81aIon8MEVc22269MqR6tVkt9rx.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1fT8SOZciXZKwtsq4mAUVj6JVPPlqW_9z",
+    "type": "movie",
+    "name": "Predator",
+    "poster": "https://image.tmdb.org/t/p/w500/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+    "description": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+    "background": "https://image.tmdb.org/t/p/w1280/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
+    "released": "1987-01-01",
+    "imdbRating": "7.5"
   }
 ]
