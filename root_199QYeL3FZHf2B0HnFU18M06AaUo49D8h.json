@@ -168,5 +168,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
     "released": "1987-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive:1-tDvmJE4GJadBnjB0D34JJriI-8YzvY2",
+    "type": "movie",
+    "name": "The Roughneck",
+    "poster": "https://image.tmdb.org/t/p/w500/bRPI3ZLSPJehbnb1OCpWBVBBx0c.jpg",
+    "description": "An oil worker and his dog embark on a journey to his wedding, but after a violent attack at a rest stop, he teams with his ex-convict father to seek revenge, uncovering dark secrets in their rural community.",
+    "background": "https://image.tmdb.org/t/p/w1280/y6FIMlDgOMSyyfztaF7EfaxlN8a.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.0"
   }
 ]
