@@ -68,5 +68,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eFUtmW3XqK4MVwPotko0pm6oMRK.jpg",
     "released": "2026-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1XwbTIi8thFD6LiGYQqKXTC-cWaA9lKDL",
+    "type": "movie",
+    "name": "Love Me Love Me",
+    "poster": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+    "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+    "background": "https://image.tmdb.org/t/p/w1280/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "7.0"
   }
 ]
