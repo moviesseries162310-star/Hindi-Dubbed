@@ -7053,10 +7053,10 @@
     "id": "gdrive:1N6MHtnyz_YtmTTj5DUdy-sMGEpEvgo7d",
     "type": "movie",
     "name": "Gringo",
-    "poster": "https://image.tmdb.org/t/p/w500/wtdobuJn2zVoEWFJ5uhQsLeBPuf.jpg",
-    "description": "Omar and Esperanza return to Monterrey after a doctoral stay in Quebec, while making economic and emotional efforts to stay in Mexico, a job offer comes up in San Antonio, Texas. Standing before unsecure and terror conditions that rein upon the highways in the north of Mexico, Omar will have to drive through the frontier paths and face his rough past, his violent present and the helpless future of his family and country.",
-    "background": null,
-    "released": "2015-01-01",
+    "poster": "https://image.tmdb.org/t/p/original/dxeVPklFwng2IowqRPNI4od6aXv.jpg",
+    "description": "An American businessman with a stake in a pharmaceutical company that's about to go public finds his life is thrown into turmoil by an incident in Mexico.",
+    "background": "https://image.tmdb.org/t/p/original/4zGmfaRPYn9DL9f3e05sNIguU0M.jpg",
+    "released": "2018-01-01",
     "imdbRating": "5.0"
   },
   {
@@ -7073,10 +7073,10 @@
     "id": "gdrive:1qGl_sjMuDpNbHWKwFWdwB6Pielm90Mvn",
     "type": "movie",
     "name": "Hit & Run",
-    "poster": "https://image.tmdb.org/t/p/w500/e5L0yoevcl1UIZw0RBLxyyouhdx.jpg",
-    "description": "After year's of silly stunts and goofy skits, HIT & RUN (2000) takes a more serious look at what makes these top pros tick through a series of intimate interviews paired with the cutting edge of performance surfing. Great sections from the Bruce Irons, Andy Irons, The Hobgoods, Donavon Frankenreiter, Shane Dorian, Rob Machado, Kelly Slater and more.",
-    "background": null,
-    "released": "2000-01-01",
+    "poster": "https://image.tmdb.org/t/p/original/2n3FTpj2AmucfvgZ5tunZxZ2Jvf.jpg",
+    "description": "When former getaway driver Charlie Bronson jeopardises his Witness Protection Plan identity in order to help his girlfriend get to Los Angeles, the feds and Charlie's former gang chase them on the road.",
+    "background": "https://image.tmdb.org/t/p/original/fhju0UhVUIykW1ek9Kc2zShAyuO.jpg",
+    "released": "2012-01-01",
     "imdbRating": "7.0"
   }
 ]
