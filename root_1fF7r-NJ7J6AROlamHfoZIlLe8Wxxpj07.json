@@ -113,20 +113,20 @@
     "id": "gdrive:1Vsc2hu-SRhKh2o1KQm4nQ_Q_plSZn45h",
     "type": "movie",
     "name": "Pavane",
-    "poster": null,
-    "description": "Phil and Jay share more than a family bond - failed careers, failed relationships, bottomless drinks, and a debilitating memory of a shocking encounter in a ravine one childhood day. The pretext of being strangers, the darkly comic ritual that the broken, non-functioning brothers perform in an attempt to get at their pain, can't cover the palpable connection between them, nor their deeply felt desire to find redemption.  An accomplished pianist, Jay is working as a piano player in a lounge. Mike, one of the bar's patrons, makes a request for Jay to play Maurice Ravel's \"Pavane pour une infant defunte\", which Jay refuses. This act masks an underlying secret both men share about their childhood.",
-    "background": null,
-    "released": "2008-01-01",
-    "imdbRating": null
+    "poster": "https://image.tmdb.org/t/p/original/lAi5ExfQM73aD76oKvNeatijrXT.jpg",
+    "description": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of love.",
+    "background": "https://image.tmdb.org/t/p/original/sc50z1zKS7aqIXYdWG9K7s3XalK.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "6.5"
   },
   {
     "id": "gdrive:1VwWtWIQY0q3bitV11yNYZKivoAXoC5R-",
     "type": "movie",
     "name": "Firebreak",
-    "poster": "https://image.tmdb.org/t/p/w500/kQhvTEJQDtcN0w241lTfQ6gfnA8.jpg",
-    "description": "Brandon and Royal are among a small group of firefighters in California who were trained while incarcerated and managed to break through and become professional firefighters post-release, but that’s not the story for most of their peers. After securing their own careers, they decided to take matters into their own hands and start their own nonprofit and fire department. Firebreak follows Brandon, Royal and their third group of trainees as they make their way through Brandon and Royal’s tough training program.",
-    "background": null,
-    "released": "2024-01-01",
-    "imdbRating": null
+    "poster": "https://image.tmdb.org/t/p/original/okbpjIlAspXYfkllAqjMRtWgoDj.jpg",
+    "description": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
+    "background": "https://image.tmdb.org/t/p/original/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "7.0"
   }
 ]
