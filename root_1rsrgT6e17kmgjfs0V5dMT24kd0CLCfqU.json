@@ -566,5 +566,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5nkKy7eEDsXqsxFLJy3GxZhE90J.jpg",
     "released": "2018-01-01",
     "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive:1bMzz3fxxkEVPE5ZuD808WpQni7dMCTRw",
+    "type": "movie",
+    "name": "Bombshell",
+    "poster": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+    "description": "Bombshell is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.",
+    "background": "https://image.tmdb.org/t/p/w1280/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.8"
   }
 ]
