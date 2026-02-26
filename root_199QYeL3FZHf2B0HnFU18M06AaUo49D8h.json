@@ -258,5 +258,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xZjnJupgEYI5fDVY9siyiiGKtK6.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.4"
+  },
+  {
+    "id": "gdrive:1ZNK8CgEyHWcsV3tCYq7EGoZomXol96Aq",
+    "type": "movie",
+    "name": "Wanted",
+    "poster": "https://image.tmdb.org/t/p/w500/cbDMsV4VJAL2xJ2JXdWWjmUXZkT.jpg",
+    "description": "Doormat Wesley Gibson is an office worker whose life is going nowhere. He meets an attractive woman named Fox and discovers that his recently murdered father - whom Wesley never knew - belonged to the Fraternity, a secret society of assassins which takes its orders from Fate itself. Fox and Sloan, the Fraternity's leader, teach Wesley, through intense training, to tap into dormant powers and hone his innate killing skills. Though he enjoys his newfound abilities, he begins to suspect that there is more to the Fraternity than meets the eye.",
+    "background": "https://image.tmdb.org/t/p/w1280/vjwuT8EzWY96W6nrJKZNI2WJU87.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "6.5"
   }
 ]
