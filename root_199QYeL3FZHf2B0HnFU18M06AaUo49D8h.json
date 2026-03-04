@@ -288,5 +288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1uqXfGc01kfAdpmOZb_liD6O1E9gpSnO2",
+    "type": "movie",
+    "name": "Subservience",
+    "poster": "https://image.tmdb.org/t/p/w500/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+    "description": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+    "background": "https://image.tmdb.org/t/p/w1280/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.6"
   }
 ]
