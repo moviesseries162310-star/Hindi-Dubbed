@@ -298,5 +298,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive:1FPzEKSRu_zbqXU2fCr-Kcqesd_a3kcFZ",
+    "type": "movie",
+    "name": "Osiris",
+    "poster": "https://image.tmdb.org/t/p/w500/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+    "description": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+    "background": "https://image.tmdb.org/t/p/w1280/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
